@@ -1,0 +1,77 @@
+#content {
+	align-items: center;
+	margin-left: 200px;
+	margin-right: 200px;
+	margin-top: 7%;
+
+}
+
+h3, h4{
+	align-items: center;
+	text-align: center;
+	margin-top: 50px;
+}
+
+.description{
+	align-items: center;
+	text-align: center;	
+}
+
+#correction{
+	display: none;
+}
+
+#satisfied{
+	display: none;
+}
+
+textarea{
+	width: 60%;
+	height: 100px;
+	align-items: center;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	display: block;
+	background-color: lightblue;
+}
+
+#haha{
+	width: 60%;
+	align-items: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+#button1{
+	display: block;
+	margin-left: 80%;
+	margin-top: 2%;
+}
+
+.block{
+	align-items: center;
+	display: block;
+}
+
+.ss{
+	display: block;
+	margin-left: 47%;
+	margin-right: 47%;
+	margin-top: 2%;	
+}
+
+#button2{
+	display: block;
+	margin-left: 80%;
+	margin-top: 2%;	
+}
+
+#button3{
+	display: block;
+	margin-left: 80%;
+	margin-top: 2%;	
+	margin-bottom: 5%;
+}

@@ -16,19 +16,19 @@
 
 			<div class="block">
 				<div class="text">
-					<h3 class="">Test with your own text</h3>
+					<h2 class="description">Sentiment Analysis</h2>
+					<p class="description">Copy & paste or type in text that you want to analyze, then press the "Next" button to proceed. </p>
 					<form>
-						<textarea name="message" id = "message" required>Hi Jack</textarea>
+						<textarea name="message" id = "message" required></textarea>
 					
-						<input type="submit" onclick = "fn1()" value="Go Analyze">
+						<input type="button" id="button1" onclick = "fn1(); fn2(); fn3()" value="Next">
 					</form>
 				</div>
 				<div class="result">
-					<h3 class="">Results</h3>
+					<h3 class="description">Results</h3>
 					<div class="">
 						<div class="display1">
-							<div id="display">
-							</div>
+							<input type="text" name="emotionresult" id="haha" readonly>
 					
 						</div>
 					</div>
@@ -36,34 +36,38 @@
 			</div>
 
 
-			<div class="block">
-				<div class="satisfy">
-					<h4>Are you satisfied with the result?</h4>
-					<form >
+			<div id="satisfied">
+				<div class="block">
+					<h3 class="description">Is it the correct sentiment?</h3>
+					<p class="description"> Choose whether you are satisfied with classified outcome, and press "Next" to proceed. </p>
+					<form class = "ss">
 						<input type="radio" id = "yes" name="satisfy" value = "Yes" required>
 						<label for = "Yes">Yes</label> <br>
-						<input type="radio" id = "No" name="satisfy" value = "No" required>
+						<input type="radio" id = "no" name="satisfy" value = "No" required>
 						<label for = "No">No</label> <br>
-						<input type="submit" value="Submit" >
+						
 					</form>
+					<input type="button" id = "button2" onclick= "fn5()" value="Next" >
 				</div>
 				
 			</div>
 
 
 
-			<div class="block">
-				<div class="correction">
-					<h4>What should be the correct emotion? </h4>
-					<form>
+			<div id="correction">
+				<div class="block">
+					<h3 class="description">What should be the correct sentiment? </h3>
+					<p class="description">If the classified outcome above did not match your expectation, choose the correct sentiment and then press "Send". </p>
+					<form class="ss">
 						<input type="radio" id = "happy" name="emotion" value = "Happy" required>
 						<label for = "Happy">Happy</label> <br>
 						<input type="radio" id = "sad" name="emotion" value = "Sad" required>
 						<label for = "Sad">Sad</label> <br>
 						<input type="radio" id = "angry" name="emotion" value = "Angry" required>
 						<label for = "Angry">Angry</label> <br>						
-						<input type="submit" value="Ok">
+						
 					</form>
+					<input type="submit" id = "button3" value="Send">
 				</div>
 				
 			</div>
@@ -71,6 +75,8 @@
 
 
 		</div>
+
+
 
 	</body>
 
