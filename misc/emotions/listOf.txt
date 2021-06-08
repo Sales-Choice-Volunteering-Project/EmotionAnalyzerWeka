@@ -57,7 +57,7 @@ impatient
 irritated
 irate
 moody
-on edge
+edgy
 outraged
 pissed
 resentful
@@ -124,7 +124,7 @@ lethargic
 listless
 removed
 resistant
-shut down
+shut_down
 uneasy
 withdrawn
 embarrassed
@@ -182,7 +182,7 @@ self_loving
 vulnerable
 stressed
 tense
-burned out
+burned_out
 cranky
 depleted
 exhausted
@@ -193,7 +193,7 @@ rejecting
 restless
 shaken
 tight
-worn out
+worn_out
 unsettled
 doubt
 concerned
@@ -213,15 +213,15 @@ disgust
 anticipation
 trust
 interest
-self_hostility
+hostile
 shyness
 love
 devotion
-tender feelings
+tenderness
 suffering
 weeping
-high spirits
-low spirits
+high_spirits
+low_spirits
 anxiety
 dejection
 hatred
