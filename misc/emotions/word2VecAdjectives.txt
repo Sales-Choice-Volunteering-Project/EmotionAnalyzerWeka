@@ -1,1791 +1,1792 @@
 The following is the list that works with word2vec without any threshold.  Anything that has not been properly classified should be simply deleted from this file. However, if we are using the whole list only to derive a single distance as positive/negative, we can tolerate the errors.
 
-abandoned negative
-abhorrent negative
-abiding positive
-abject negative
-abrupt negative
-absent negative
-absolute positive
-absorbed positive
-abstracted positive
-abundant positive
-abusive negative
-abysmal negative
-academic positive
-accessible positive
-accurate positive
-acerbic negative
-acoustic positive
-acrid negative
-acrimonious negative
-acrobatic positive
-actionable positive
-active positive
-actual positive
-adhoc positive
-adaptable positive
-adaptive positive
-additional positive
-adequate positive
-adhesive positive
-adjustable positive
-administrative positive
-adult positive
-advanced positive
-adversarial negative
-aerial positive
-affordable positive
-afraid negative
-agonizing negative
-agrarian positive
-airline positive
-algebraic positive
-alien negative
-allowable positive
-allusive positive
-aloof negative
-alternative positive
-ambiguous negative
-ambulant positive
-ambulatory positive
-amphibian positive
-ancient positive
-anecdotal positive
-anemic negative
-angry negative
-angular positive
-annual positive
-antagonistic negative
-anticlimactic negative
-antsy negative
-apathetic negative
-appalling negative
-applicable positive
-applicative positive
-apprehensive negative
-appropriate positive
-approximate positive
-aquatic positive
-architectural positive
-aromatic positive
-arrogant negative
-artificial positive
-artistic positive
-ashamed negative
-assignable positive
-assorted positive
-assured positive
-astonishing positive
-astronomical positive
-asymmetrical positive
-athletic positive
-atomic positive
-atrocious negative
-attachable positive
-attainable positive
-atypical positive
-auspicious positive
-authentic positive
-authoritative positive
-automatic positive
-autonomous positive
-available positive
-avant_garde positive
-avian positive
-avid positive
-awakening positive
-awful negative
-awkward negative
-axiomatic positive
-background positive
-bacterial positive
-bad negative
-bald negative
-balding negative
-barbarous negative
-barren negative
-basic positive
-batty negative
-beefy negative
-belligerent negative
-bendable positive
-bent negative
-berserk negative
-best positive
-biased negative
-biblical positive
-bigoted negative
-bilingual positive
-billable positive
-binary positive
-binding positive
-bioactive positive
-biographical positive
-bitter negative
-black negative
-blasphemous negative
-blatant negative
-bleak negative
-blessed positive
-blind negative
-bloated negative
-bloodthirsty negative
-bloody negative
-blurry negative
-bohemian positive
-boorish negative
-boring negative
-boundless positive
-bountiful positive
-breakable positive
-breathable positive
-breathtaking positive
-broad positive
-bronze positive
-brooding negative
-brown negative
-brutal negative
-brutish negative
-budget positive
-burnable positive
-business positive
-cagey negative
-calculable positive
-callous negative
-cancerous negative
-cantankerous negative
-capable positive
-careful positive
-cavernous positive
-celestial positive
-central positive
-cerebral positive
-ceremonial positive
-certain positive
-certifiable positive
-certified positive
-changeable positive
-charitable positive
-chemical positive
-chewable positive
-chicken negative
-chief positive
-chilly negative
-choice positive
-choppy negative
-chronological positive
-cinematic positive
-circular positive
-civil positive
-classic positive
-classical positive
-classifiable positive
-classified positive
-clean positive
-climatic positive
-clinical positive
-closed positive
-cloudy negative
-coarse negative
-cognitive positive
-coherent positive
-cohesive positive
-cold negative
-collaborative positive
-collectable positive
-collegial positive
-colloquial positive
-colonial positive
-colorful positive
-colossal positive
-commemorative positive
-commendable positive
-commercial positive
-common positive
-communal positive
-communicative positive
-compact positive
-comparable positive
-competitive positive
-complete positive
-completed positive
-complex positive
-compliant positive
-complicated positive
-complimentary positive
-compound positive
-comprehensive positive
-compulsory positive
-computer positive
-concealable positive
-conceited negative
-concerted positive
-concise positive
-concurrent positive
-conformable positive
-confused negative
-congressional positive
-connected positive
-connective positive
-considerable positive
-consistent positive
-constitutional positive
-constrictive negative
-constructive positive
-consumable positive
-contemplative positive
-contemporary positive
-contemptible negative
-contemptuous negative
-content positive
-contentious negative
-contextual positive
-continual positive
-continuous positive
-contoured positive
-contractual positive
-contradictory negative
-contrary negative
-controversial negative
-convenient positive
-conventional positive
-conversational positive
-cooperative positive
-copious positive
-corny negative
-corporate positive
-correct positive
-correctable positive
-corrective positive
-corrosive negative
-corrupt negative
-corruptive negative
-cosmetic positive
-cosmic positive
-cowardly negative
-coy negative
-crabby negative
-craggy negative
-cranky negative
-crass negative
-craven negative
-creative positive
-creepy negative
-criminal negative
-crotchety negative
-crucial positive
-crude negative
-cruel negative
-crystalline positive
-culpable negative
-cultural positive
-cumulative positive
-curative positive
-current positive
-cursed negative
-curt negative
-cut negative
-cynical negative
-daily positive
-danceable positive
-dangerous negative
-dark negative
-daunting negative
-dead negative
-deadly negative
-deaf negative
-debatable negative
-deceitful negative
-deceptive negative
-decorative positive
-dedicated positive
-defective negative
-defendable positive
-defenseless negative
-defensive positive
-deficient negative
-definable positive
-definitive positive
-dehydrated negative
-dejected negative
-deliberative positive
-delinquent negative
-deliverable positive
-democratic positive
-demonic negative
-demonstrative positive
-dense positive
-dependent positive
-deplorable negative
-depraved negative
-depressed negative
-depressive negative
-deranged negative
-derivative positive
-derogative negative
-derogatory negative
-descriptive positive
-designer positive
-desirable positive
-desolate negative
-despicable negative
-despondent negative
-destroyed negative
-detachable positive
-detailed positive
-detectable positive
-detestable negative
-detrimental negative
-devious negative
-didactic positive
-different positive
-difficult negative
-diffuse positive
-digestive positive
-digital positive
-dilapidated negative
-dim negative
-dingy negative
-diplomatic positive
-dire negative
-direct positive
-dirty negative
-disabled negative
-disadvantageous negative
-disaffected negative
-disagreeable negative
-disappointed negative
-discernable positive
-disconnected positive
-discontented negative
-discourteous negative
-disdainful negative
-diseased negative
-disgraceful negative
-disgruntled negative
-disgusting negative
-dishonest negative
-dishonorable negative
-disinterested negative
-disjointed negative
-disloyal negative
-dismal negative
-disobedient negative
-disparate positive
-disposable positive
-disreputable negative
-dissimilar positive
-distant negative
-distasteful negative
-distinct positive
-distinctive positive
-distinguished positive
-distraught negative
-distrustful negative
-disturbing negative
-divergent positive
-diverse positive
-divine positive
-divisive negative
-dizzying positive
-doable positive
-documentary positive
-domed positive
-domestic positive
-dominant positive
-doubtful negative
-dowdy negative
-downhearted negative
-downloadable positive
-drab negative
-dramatic positive
-dreadful negative
-dreary negative
-drivable positive
-drowsy negative
-drunk negative
-dual positive
-dubious negative
-dull negative
-durable positive
-dynamic positive
-easy positive
-ecological positive
-economic positive
-economical positive
-economy positive
-editable positive
-educational positive
-effective positive
-efficient positive
-effortless positive
-egalitarian positive
-egomaniacal negative
-elaborate positive
-elastic positive
-electric positive
-electrical positive
-electronic positive
-elegant positive
-elementary positive
-elite positive
-emaciated negative
-embarrassing negative
-emblematic positive
-emergency positive
-eminent positive
-empirical positive
-empty negative
-endemic positive
-enduring positive
-enhanced positive
-enormous positive
-entire positive
-entrepreneurial positive
-enumerable positive
-enviable positive
-envious negative
-environmental positive
-episodic positive
-equal positive
-equitable positive
-equivalent positive
-erasable positive
-erect positive
-erroneous negative
-eruptive positive
-esoteric positive
-essential positive
-ethereal positive
-ethical positive
-ethnic positive
-everlasting positive
-every positive
-evil negative
-evocative positive
-exact positive
-excellent positive
-exceptional positive
-exclusive positive
-excruciating negative
-executable positive
-exemplary positive
-exhaustive positive
-existing positive
-exotic positive
-expanded positive
-expansive positive
-expected positive
-expeditious positive
-expensive positive
-experimental positive
-expert positive
-explainable positive
-explicit positive
-explosive positive
-exponential positive
-expressive positive
-exquisite positive
-extendable positive
-extended positive
-extension positive
-extensive positive
-exterior positive
-external positive
-extra positive
-extraordinary positive
-fabled positive
-facial positive
-factual positive
-failed negative
-faint negative
-fair positive
-faithless negative
-false negative
-famous positive
-fashionable positive
-fast positive
-fat negative
-fatal negative
-faulty negative
-fearful negative
-feckless negative
-federal positive
-felonious negative
-feminine positive
-fertile positive
-festive positive
-financial positive
-finite positive
-fireproof positive
-firm positive
-first positive
-fiscal positive
-fit positive
-fitting positive
-fixed positive
-flabby negative
-flavored positive
-flavorful positive
-flawless positive
-flexible positive
-floppy positive
-floral positive
-flowering positive
-fluent positive
-flying positive
-foggy negative
-following positive
-foregoing positive
-foreign positive
-forensic positive
-formal positive
-formative positive
-former positive
-formless positive
-foul negative
-fractional positive
-fragrant positive
-frail negative
-fraternal positive
-fraudulent negative
-free positive
-fresh positive
-frightening negative
-frightful negative
-frigid negative
-fruitful positive
-fruitless negative
-frumpy negative
-frustrated negative
-full positive
-functional positive
-fundamental positive
-future positive
-futuristic positive
-gainful positive
-game positive
-gaseous positive
-gaunt negative
-general positive
-generative positive
-generic positive
-geographic positive
-geologic positive
-geometric positive
-geriatric positive
-ghastly negative
-ghostly negative
-gifted positive
-glass positive
-glassy positive
-global positive
-globular positive
-gloomy negative
-glorious positive
-glossy positive
-gold positive
-golden positive
-graceful positive
-gradual positive
-grand positive
-graphic positive
-grave negative
-gray negative
-great positive
-greatest positive
-greedy negative
-grey negative
-grim negative
-grinding positive
-groggy negative
-grouchy negative
-grubby negative
-grumpy negative
-guilty negative
-gullible negative
-habitable positive
-half negative
-hapless negative
-harmful negative
-harmonic positive
-harmonious positive
-harsh negative
-hateful negative
-haughty negative
-hawkish negative
-healthy positive
-heartless negative
-heavenly positive
-heavy negative
-heinous negative
-hideous negative
-high positive
-historical positive
-holiday positive
-holistic positive
-hollow negative
-homogeneous positive
-hormonal positive
-horrendous negative
-horrible negative
-horrid negative
-hostile negative
-hot negative
-hotheaded negative
-house positive
-human positive
-humanitarian positive
-humorless negative
-hurt negative
-hurtful negative
-hydraulic positive
-hydrothermal positive
-hygienic positive
-hyperbolic positive
-hypothetical positive
-icky negative
-icy negative
-ideal positive
-identical positive
-identifiable positive
-idiosyncratic positive
-ignorant negative
-ill negative
-illegal negative
-illegible negative
-illegitimate negative
-illiterate negative
-illustrious positive
-imaginative positive
-imitative positive
-immanent positive
-immense positive
-immoral negative
-impassable negative
-imperial positive
-impertinent negative
-implicit positive
-impolite negative
-important positive
-impossible negative
-imprecise negative
-impressive positive
-improper negative
-imprudent negative
-inaccessible negative
-inaccurate negative
-inactive negative
-inadequate negative
-inadmissible negative
-inadvisable negative
-inalienable positive
-inane negative
-inappropriate negative
-inattentive negative
-inaudible negative
-incandescent positive
-incapable negative
-incidental positive
-inclusive positive
-incoherent negative
-incomparable positive
-incompetent negative
-inconclusive negative
-inconsequential negative
-inconsiderate negative
-incontrovertible positive
-incorrect negative
-incorrigible negative
-increasing positive
-incremental positive
-incurable negative
-indecent negative
-indecipherable negative
-indecisive negative
-indefensible negative
-indefinable positive
-indelible positive
-independent positive
-indeterminable negative
-indicative positive
-indifferent negative
-indigenous positive
-indispensable positive
-indistinct negative
-individual positive
-indivisible positive
-inductive positive
-industrial positive
-ineffective negative
-inefficient negative
-inelegant negative
-inequitable negative
-inexact negative
-inexcusable negative
-inexhaustible positive
-inexpedient negative
-inexpensive positive
-inextricable positive
-inferior negative
-infinite positive
-infinitesimal positive
-inflatable positive
-influential positive
-informal positive
-informative positive
-informed positive
-inherent positive
-inhibited negative
-inhuman negative
-injudicious negative
-injured negative
-injurious negative
-innate positive
-inner positive
-innovative positive
-innumerable positive
-inoperable negative
-inoperative negative
-inopportune negative
-inordinate negative
-insecure negative
-insidious negative
-insightful positive
-insincere negative
-insipid negative
-insolent negative
-inspirational positive
-instant positive
-instantaneous positive
-institutional positive
-instructive positive
-instrumental positive
-insubordinate negative
-insufficient negative
-intangible positive
-integral positive
-intellectual positive
-intelligible positive
-intended positive
-intensive positive
-interactive positive
-interchangeable positive
-interdepartmental positive
-interesting positive
-interior positive
-intermediate positive
-internal positive
-international positive
-interpersonal positive
-intolerable negative
-intravenous positive
-intricate positive
-intrinsic positive
-introductory positive
-intuitive positive
-invalid negative
-invaluable positive
-inventive positive
-inviting positive
-inward positive
-irascible negative
-irate negative
-iridescent positive
-irrational negative
-irrelevant negative
-irresponsible negative
-irritable negative
-irritated negative
-jaded negative
-jagged negative
-jazzy positive
-jealous negative
-jerky negative
-joint positive
-joyless negative
-judgmental negative
-judicious positive
-kaput negative
-key positive
-kind positive
-knightly positive
-knobby negative
-knotty negative
-knowable positive
-lame negative
-lamentable negative
-lanky negative
-lascivious negative
-last negative
-lasting positive
-latent positive
-latter negative
-laudable positive
-laughable negative
-lavish positive
-lawless negative
-lax negative
-lazy negative
-lean negative
-learnable positive
-learned positive
-leather positive
-lecherous negative
-left negative
-legal positive
-legendary positive
-legible positive
-legislative positive
-lethal negative
-liable negative
-libelous negative
-liberal positive
-licensed positive
-lifelike positive
-lifelong positive
-light positive
-limited positive
-limp negative
-linear positive
-linguistic positive
-literal positive
-literary positive
-literate positive
-lithographic positive
-little negative
-livable positive
-livid negative
-loathsome negative
-logarithmic positive
-logical positive
-logistic positive
-long negative
-long_term positive
-loose negative
-lordly positive
-lost negative
-loud negative
-lousy negative
-loutish negative
-low_calorie positive
-low_risk positive
-lucent positive
-lucid positive
-lucrative positive
-luminescent positive
-luminous positive
-lumpy negative
-lush positive
-lustrous positive
-luxurious positive
-lyrical positive
-mad negative
-magenta positive
-magical positive
-magnetic positive
-magnificent positive
-main positive
-majestic positive
-maladjusted negative
-male negative
-malevolent negative
-malicious negative
-malignant negative
-manageable positive
-managerial positive
-mandatory positive
-maneuverable positive
-manual positive
-marked positive
-marketable positive
-marvelous positive
-masked negative
-massive positive
-master positive
-masterful positive
-matchless positive
-material positive
-maternal positive
-mathematical positive
-mature positive
-meager negative
-meaningful positive
-measurable positive
-mechanical positive
-medical positive
-medicinal positive
-meditative positive
-melodic positive
-menial negative
-merciless negative
-mere negative
-metabolic positive
-metallic positive
-metaphoric positive
-meteoric positive
-meticulous positive
-microscopic positive
-middle negative
-mild negative
-miniature positive
-minimal positive
-miraculous positive
-miscellaneous positive
-miscreant negative
-miserable negative
-miserly negative
-mission positive
-mistaken negative
-mistrustful negative
-mixed positive
-mnemonic positive
-mobile positive
-modern positive
-modest positive
-modular positive
-monetary positive
-monotone positive
-monumental positive
-morbid negative
-moronic negative
-morose negative
-motionless negative
-motivational positive
-motor positive
-movable positive
-muddy negative
-multicultural positive
-multifaceted positive
-multipurpose positive
-multitalented positive
-municipal positive
-murky negative
-mushy negative
-musical positive
-mutinous negative
-mutual positive
-mystic positive
-mystical positive
-mythical positive
-nameless negative
-nasty negative
-national positive
-native positive
-natural positive
-nautical positive
-nearby positive
-nebulous negative
-necessary positive
-needless negative
-negative negative
-neglectful negative
-negligent negative
-neither negative
-neurological positive
-neurotic negative
-new positive
-nightmarish negative
-nine negative
-ninth negative
-noncompetitive positive
-nondescript negative
-nondestructive positive
-nonexclusive positive
-nonrenewable positive
-nonstop positive
-nonverbal positive
-nonviolent positive
-nosy negative
-notable positive
-noticeable positive
-numerous positive
-nutritional positive
-oafish negative
-obese negative
-objective positive
-oblique positive
-obnoxious negative
-obscure negative
-observable positive
-obstinate negative
-obstructive negative
-obtainable positive
-obtuse negative
-occupational positive
-oceanic positive
-odd negative
-odious negative
-odorous negative
-old negative
-ominous negative
-one negative
-onerous negative
-open positive
-operable positive
-operatic positive
-operational positive
-opposed negative
-opposite negative
-optimal positive
-optional positive
-opulent positive
-organic positive
-organizational positive
-original positive
-ornamental positive
-ornate positive
-orthopedic positive
-outstanding positive
-outward positive
-overall positive
-overbearing negative
-oversized positive
-painful negative
-painstaking positive
-pale negative
-pallid negative
-paltry negative
-panicky negative
-panoramic positive
-parallel positive
-paranormal positive
-parental positive
-partial positive
-particular positive
-part_time positive
-passive positive
-past negative
-pastoral positive
-pathetic negative
-pathological negative
-patient positive
-patriotic positive
-payable positive
-pedestrian positive
-peerless positive
-peeved negative
-perceivable positive
-perceptible positive
-perceptual positive
-perennial positive
-period positive
-periodic positive
-peripheral positive
-perishable positive
-permanent positive
-permeable positive
-perpetual positive
-personal positive
-pert positive
-pertinent positive
-pervasive positive
-petty negative
-petulant negative
-pharmaceutical positive
-phenomenal positive
-philanthropic positive
-philosophical positive
-phobic negative
-phonemic positive
-phonetic positive
-phosphorescent positive
-photographic positive
-physical positive
-physiological positive
-picturesque positive
-piercing positive
-pitiful negative
-pitiless negative
-pivotal positive
-plastic positive
-platonic positive
-plentiful positive
-pluralistic positive
-plus positive
-plush positive
-pneumatic positive
-poetic positive
-poisonous negative
-polished positive
-political positive
-poor negative
-popular positive
-populous positive
-porous positive
-portable positive
-positive positive
-possible positive
-posthumous positive
-postoperative positive
-potable positive
-potent positive
-potential positive
-powerless negative
-practical positive
-pragmatic positive
-precious positive
-precise positive
-predicative positive
-predominant positive
-preeminent positive
-preferential positive
-prehistoric positive
-prejudicial negative
-preliminary positive
-premium positive
-prenatal positive
-preoperative positive
-preparative positive
-prepared positive
-prescriptive positive
-present positive
-presidential positive
-pressurized positive
-prestigious positive
-prevalent positive
-preventative positive
-preventive positive
-priceless positive
-prickly negative
-primary positive
-primitive positive
-primordial positive
-princely positive
-principal positive
-pristine positive
-private positive
-prize positive
-proactive positive
-probabilistic positive
-procedural positive
-prodigious positive
-productive positive
-professional positive
-professorial positive
-proficient positive
-profitable positive
-profound positive
-profuse positive
-programmable positive
-progressive positive
-prohibitive negative
-prolific positive
-prominent positive
-pronounceable positive
-proof positive
-proper positive
-prophetic positive
-proportional positive
-prospective positive
-prosperous positive
-prototypical positive
-provisional positive
-proximate positive
-prudential positive
-psychedelic positive
-psychiatric positive
-psychological positive
-psychosomatic positive
-public positive
-punishable negative
-pure positive
-pushy negative
-putrid negative
-pyrotechnic positive
-qualified positive
-qualitative positive
-quality positive
-quantifiable positive
-queasy negative
-questionable negative
-quick negative
-rabid negative
-racist negative
-radiant positive
-radical positive
-rainy negative
-rancid negative
-rancorous negative
-rank positive
-rapid_fire positive
-rare positive
-rash negative
-rational positive
-ratty negative
-raw positive
-reactive positive
-realistic positive
-reasonable positive
-recent positive
-rechargeable positive
-reciprocal positive
-recognizable positive
-rectangular positive
-recurrent positive
-recyclable positive
-red negative
-redeemable positive
-referential positive
-refillable positive
-reflective positive
-refractive positive
-refundable positive
-regal positive
-regional positive
-regrettable negative
-regular positive
-relevant positive
-reliable positive
-religious positive
-reluctant negative
-remarkable positive
-remedial positive
-remote positive
-removable positive
-renewable positive
-repairable positive
-repeatable positive
-replaceable positive
-representative positive
-reproductive positive
-republican positive
-repugnant negative
-repulsive negative
-reputable positive
-reputed positive
-resealable positive
-resentful negative
-resident positive
-residential positive
-residual positive
-resolvable positive
-resonant positive
-respective positive
-responsive positive
-restful positive
-retired positive
-retrospective positive
-reusable positive
-reversible positive
-revised positive
-revolutionary positive
-rhetorical positive
-rhythmic positive
-rigorous positive
-robotic positive
-robust positive
-roomy positive
-rotten negative
-rough negative
-roundtable positive
-routine positive
-royal positive
-rude negative
-rudimentary positive
-rugged positive
-rumpled positive
-rural positive
-rustic positive
-rusty negative
-saccharin positive
-sacred positive
-sacrilegious negative
-salient positive
-salty negative
-sandy negative
-sanitary positive
-satin positive
-satisfactory positive
-savory positive
-scaly negative
-scary negative
-scenic positive
-scented positive
-scheduled positive
-schematic positive
-scholarly positive
-scholastic positive
-scientific positive
-scraggly negative
-scrawny negative
-scriptural positive
-sculptural positive
-sea negative
-seamless positive
-seasick negative
-seasonal positive
-second negative
-secondary positive
-second_hand positive
-secular positive
-secure positive
-seedy negative
-seismic positive
-select positive
-selected positive
-selective positive
-semiprecious positive
-semiprofessional positive
-senior positive
-sensuous positive
-separate positive
-sequential positive
-serendipitous positive
-serial positive
-serious negative
-serviceable positive
-seven negative
-seventh negative
-severe negative
-shabby negative
-shady negative
-shallow negative
-shameful negative
-sharp negative
-sheepish negative
-shifty negative
-shoddy negative
-short negative
-short_term positive
-shrill negative
-sick negative
-sickly negative
-significant positive
-silver positive
-similar positive
-simple positive
-simultaneous positive
-singular positive
-sinister negative
-sinuous positive
-sixth negative
-sizable positive
-skeptical negative
-skilled positive
-skinny negative
-slanderous negative
-sleek positive
-slender positive
-slight negative
-slimy negative
-sloppy negative
-slothful negative
-slow negative
-small_town positive
-smooth positive
-snide negative
-snotty negative
-social positive
-socialist positive
-sociological positive
-soft positive
-soggy negative
-solar positive
-solid positive
-somatic positive
-sonic positive
-sophisticated positive
-sordid negative
-sore negative
-soulful positive
-soulless negative
-sour negative
-spacious positive
-sparing positive
-sparse positive
-spatial positive
-special positive
-specialist positive
-specific positive
-spectacular positive
-spectral positive
-speculative positive
-spherical positive
-spinal positive
-spiritual positive
-splendid positive
-spontaneous positive
-spotless positive
-sprite positive
-squalid negative
-stable positive
-stackable positive
-stagnant negative
-stale negative
-standard positive
-standing positive
-stark negative
-stately positive
-static positive
-statistical positive
-status positive
-steady positive
-stealth positive
-steel positive
-stereophonic positive
-stern negative
-stiff negative
-stigmatic positive
-stinky negative
-stock positive
-stodgy negative
-stony negative
-straight negative
-straightforward positive
-strategic positive
-stretchy positive
-striking positive
-stringent positive
-structural positive
-stubborn negative
-stubby negative
-studied positive
-stunning positive
-sturdy positive
-stylish positive
-stylistic positive
-subconscious positive
-subject positive
-subjective positive
-sublime positive
-subordinate negative
-substantial positive
-subtle positive
-successful positive
-succinct positive
-succulent positive
-sufficient positive
-suitable positive
-sulky negative
-sullen negative
-sumptuous positive
-super positive
-superabundant positive
-superb positive
-superlative positive
-supersonic positive
-supple positive
-supreme positive
-surgical positive
-surly negative
-surrealistic positive
-survivable positive
-suspected negative
-suspicious negative
-sustainable positive
-swimming positive
-syllabic positive
-syllogistic positive
-symbiotic positive
-symbolic positive
-symmetrical positive
-synergistic positive
-syntactic positive
-synthetic positive
-systematic positive
-taboo negative
-tactical positive
-talented positive
-tan negative
-tangential positive
-tangible positive
-tardy negative
-tasteful positive
-teachable positive
-technical positive
-technological positive
-tectonic positive
-tedious negative
-teeny negative
-telegraphic positive
-telephonic positive
-telescopic positive
-temperate positive
-temporary positive
-ten negative
-tender positive
-tentative positive
-tenuous negative
-terminal positive
-terrible negative
-territorial positive
-testy negative
-textual positive
-textural positive
-theatrical positive
-thematic positive
-theological positive
-theoretical positive
-therapeutic positive
-thermal positive
-third negative
-thorny negative
-thorough positive
-threatened negative
-tight negative
-timeless positive
-timely positive
-tireless positive
-toneless negative
-topical positive
-topographical positive
-torpid negative
-tough negative
-toxic negative
-traditional positive
-trainable positive
-training positive
-traitorous negative
-tranquil positive
-transcendent positive
-transcendental positive
-transformative positive
-transient positive
-transitional positive
-transitory positive
-translucent positive
-transparent positive
-treacherous negative
-treasonous negative
-tremendous positive
-tribal positive
-tricky negative
-trim positive
-tropical positive
-truculent negative
-typical positive
-tyrannical negative
-ubiquitous positive
-ugly negative
-ultimate positive
-ultrasonic positive
-ultraviolet positive
-unable negative
-unacceptable negative
-unaccompanied positive
-unaccountable negative
-unadorned positive
-unaffordable negative
-unalienable positive
-unaltered positive
-unambiguous positive
-unappealing negative
-unappetizing negative
-unappreciative negative
-unassisted positive
-unattractive negative
-unavailing negative
-unbalanced negative
-unbearable negative
-unbecoming negative
-unbiased positive
-unbounded positive
-unchangeable positive
-unchanging positive
-uncharitable negative
-uncivil negative
-uncivilized negative
-unclassified negative
-unclean negative
-uncommitted negative
-uncommunicative negative
-uncomprehending negative
-unconfirmed negative
-unconscionable negative
-unconstitutional negative
-unconstrained positive
-unconvinced negative
-unconvincing negative
-uncooperative negative
-uncoordinated negative
-uncouth negative
-uncritical negative
-undeclared negative
-undefeated positive
-undemocratic negative
-undependable negative
-underdeveloped negative
-underhanded negative
-underprivileged positive
-understanding positive
-undesirable negative
-undifferentiated positive
-undignified negative
-undiminished positive
-undiplomatic negative
-undisciplined negative
-undivided positive
-uneasy negative
-unendurable negative
-unenforceable negative
-unenviable negative
-unequal negative
-unequaled positive
-unerring positive
-uneven negative
-unfailing positive
-unfair negative
-unfaithful negative
-unfaltering positive
-unfavorable negative
-unflagging positive
-unforgivable negative
-unforgiving negative
-unfriendly negative
-ungentlemanly negative
-ungrateful negative
-unhealthy negative
-unheeded negative
-uniform positive
-unilateral negative
-unimpeded positive
-unimpressive negative
-uninspired negative
-unintelligent negative
-unintelligible negative
-uninterested negative
-uninterrupted positive
-unique positive
-united positive
-universal positive
-unjust negative
-unjustifiable negative
-unkempt negative
-unkind negative
-unknown negative
-unlawful negative
-unlikable negative
-unlucky negative
-unmanageable negative
-unmanly negative
-unmentionable negative
-unmerciful negative
-unmistakable positive
-unmodified positive
-unmotivated negative
-unobtrusive positive
-unostentatious positive
-unpleasant negative
-unprecedented positive
-unprincipled negative
-unproductive negative
-unprofessional negative
-unprofitable negative
-unreasonable negative
-unreceptive negative
-unresponsive negative
-unripe negative
-unrivaled positive
-unruly negative
-unsafe negative
-unsalvageable negative
-unsatisfactory negative
-unscrupulous negative
-unseemly negative
-unsightly negative
-unskilled negative
-unsolvable negative
-unsound negative
-unspoiled positive
-unstated negative
-unstructured positive
-unsuitable negative
-unsuited negative
-unsupervised positive
-unsurpassed positive
-unsympathetic negative
-untapped positive
-untenable negative
-untimely negative
-untrustworthy negative
-untruthful negative
-unusual positive
-unverified negative
-unwavering positive
-unwholesome negative
-unwise negative
-unworkable negative
-unworthy negative
-upright positive
-uptight negative
-usable positive
-used positive
-useful positive
-utilitarian positive
-utopian positive
-vague negative
-valuable positive
-vapid negative
-variable positive
-varied positive
-various positive
-vast positive
-vegetable positive
-vegetative positive
-venal negative
-venerable positive
-venomous negative
-verbal positive
-verdant positive
-verifiable positive
-vernacular positive
-versatile positive
-versed positive
-vexed negative
-viable positive
-vibrant positive
-vicarious positive
-vicious negative
-vigorous positive
-vile negative
-villainous negative
-violent negative
-viral positive
-virtual positive
-visceral positive
-viscous positive
-visible positive
-visionary positive
-visual positive
-vital positive
-vitriolic negative
-vivid positive
-vocational positive
-volcanic positive
-voluminous positive
-voluntary positive
-waterproof positive
-watertight positive
-watery negative
-wax positive
-weak negative
-wee negative
-weekly positive
-weightless positive
-well positive
-white negative
-wholesale positive
-wholesome positive
-wicked negative
-witless negative
-woeful negative
-wondrous positive
-wooden positive
-wool positive
-woolen positive
-wordless positive
-work positive
-working positive
-worrisome negative
-worshipful positive
-worth positive
-worthless negative
-wrathful negative
-wretched negative
-wrong negative
-wrongful negative
-yearly positive
-yielding positive
-zoological positive
+adjective,sentiment,positive_value,negative_value
+abandoned,negative,0.043606786863027346,0.05853047719564246
+abhorrent,negative,0.11979058679888345,0.26970401145937806
+abiding,positive,0.13453416495548529,0.10341380836142319
+abject,negative,0.08916825244586028,0.20440075095848872
+abrupt,negative,0.11360635255765937,0.1602787155668322
+absent,negative,0.0866243616802417,0.15112313139828143
+absolute,positive,0.16368357103882855,0.13773988649392357
+absorbed,positive,0.08449213456224543,0.0581323844195113
+abstracted,positive,0.12003751052167609,0.08299702926988582
+abundant,positive,0.1660954714244123,0.11702354186202664
+abusive,negative,0.08261144951617237,0.25209364076290514
+abysmal,negative,0.08595890678819684,0.16660725431579593
+academic,positive,0.14182671779105607,0.05110046648336316
+accessible,positive,0.1445173865178227,0.08209169934716594
+accurate,positive,0.20098387816187516,0.14721935658766863
+acerbic,negative,0.1434996929106,0.23635065217819776
+acoustic,positive,0.12913216735287986,0.09639493590778389
+acrid,negative,0.1303504360326721,0.20249111359992708
+acrimonious,negative,0.08408808495164043,0.15758141685492505
+acrobatic,positive,0.10618467451903105,0.09553018689540115
+actionable,positive,0.13962814228566758,0.129755755377008
+active,positive,0.11012288415103659,0.08472731817071127
+actual,positive,0.1993279906011803,0.17122848295104956
+adhoc,positive,0.09456130288701323,0.05078912914441946
+adaptable,positive,0.1737985390376855,0.1294304206397404
+adaptive,positive,0.18444430247971536,0.08842570889371715
+additional,positive,0.1461490216394178,0.09174062224799479
+adequate,positive,0.1856311147642084,0.14096316599821684
+adhesive,positive,0.14672550375532897,0.08941160328827466
+adjustable,positive,0.14715212204342565,0.08252575983381087
+administrative,positive,0.11991724897699964,0.07100341836259866
+adult,positive,0.10551799956033216,0.0980701075016721
+advanced,positive,0.19000914931220284,0.10538191976794271
+adversarial,negative,0.14446198488287984,0.1912488476590789
+aerial,positive,0.09093877263160016,0.059227832893528794
+affordable,positive,0.14470598311253316,0.08175768427099683
+afraid,negative,0.0681660001640412,0.2149664230840468
+agonizing,negative,0.1044535422518363,0.18737691313796165
+agrarian,positive,0.10615611502316237,0.07668064742756542
+airline,positive,0.06400743005393617,0.028389106241698076
+algebraic,positive,0.15108370954245973,0.0696338273495197
+alien,negative,0.0951350193980242,0.1513175259494935
+allowable,positive,0.12463072001328279,0.0932952058342629
+allusive,positive,0.15913123771644136,0.15517868339708568
+aloof,negative,0.09937508865623121,0.23561309203048558
+alternative,positive,0.16976675025175791,0.10493948505817662
+ambiguous,negative,0.17756801922698573,0.24546731163466734
+ambulant,positive,0.07851142271941439,0.06959295572002884
+ambulatory,positive,0.09888190720520759,0.05568978608067989
+amphibian,positive,0.08388560159632147,0.05992179347731679
+ancient,positive,0.14402878021263793,0.09554998784040673
+anecdotal,positive,0.14523561567122045,0.14158363870962412
+anemic,negative,0.10012752254607984,0.21443288773574595
+angry,negative,0.06962335683064033,0.27011238859865455
+angular,positive,0.16574176798194232,0.10293261274867588
+annual,positive,0.0909959455677174,0.03811020979432774
+antagonistic,negative,0.13938158302542056,0.24210314838216446
+anticlimactic,negative,0.13107241811927076,0.25372181172655567
+antsy,negative,0.06176844289795405,0.13072788667924284
+apathetic,negative,0.10805662046258832,0.29925911770730496
+appalling,negative,0.10982263982859154,0.2547871902341251
+applicable,positive,0.1619054424902917,0.11817639225845561
+applicative,positive,0.10300911141109406,0.048886377069466955
+apprehensive,negative,0.0765978538800429,0.19738030625076705
+appropriate,positive,0.21940744810835913,0.15267903880240882
+approximate,positive,0.1366950863166344,0.0943847673289386
+aquatic,positive,0.1125348985101559,0.07190576672539849
+architectural,positive,0.14726758714211563,0.0521680177878111
+aromatic,positive,0.13762909599151482,0.08866954391938876
+arrogant,negative,0.10752337648386452,0.2965313073349714
+artificial,positive,0.17667785439150965,0.11632866882589749
+artistic,positive,0.18354026471186122,0.0870492193728757
+ashamed,negative,0.07290156801842848,0.23140455487692285
+assignable,positive,0.11579384232773883,0.07190097298471573
+assorted,positive,0.09838929923709912,0.08582789978955978
+assured,positive,0.1606237255368279,0.14918022535643818
+astonishing,positive,0.16210077557475133,0.15799516313091289
+astronomical,positive,0.11519334638429991,0.05205256271177138
+asymmetrical,positive,0.1880268365413306,0.13782287400311952
+athletic,positive,0.05983522407904386,0.03668528654307011
+atomic,positive,0.1116895332698676,0.06963124592931753
+atrocious,negative,0.1078677237081719,0.2524740291456294
+attachable,positive,0.13105252169230844,0.08311687432713911
+attainable,positive,0.1336420052338471,0.07363678379997657
+atypical,positive,0.18380180747543387,0.1794506177230793
+auspicious,positive,0.11414837509698803,0.10931826738400875
+authentic,positive,0.19546606550904627,0.1416164564434439
+authoritative,positive,0.17017656518759705,0.145749710654971
+automatic,positive,0.1487951360759967,0.08338036275402919
+autonomous,positive,0.11534964084520587,0.0771382326898051
+available,positive,0.1395776464649114,0.07365611061284558
+avant_garde,positive,0.11687199155563499,0.0811296411598068
+avian,positive,0.10229614410090439,0.06366135702853434
+avid,positive,0.09904019001232636,0.08833861007477899
+awakening,positive,0.10091956001695174,0.10081143625664217
+awful,negative,0.11637924966207432,0.24599458974354163
+awkward,negative,0.13882453325006672,0.28211507454596935
+axiomatic,positive,0.14808938970146596,0.0877699722156681
+background,positive,0.06360677494346785,0.048936597661602056
+bacterial,positive,0.13359179598231702,0.0814823731678304
+bad,negative,0.08809966826777013,0.24133724846323515
+bald,negative,0.0710867886818928,0.17734055670044205
+balding,negative,0.05307115947101413,0.11747153200981245
+barbarous,negative,0.1071200027392325,0.22811288004549504
+barren,negative,0.10596621283714226,0.15376945237421666
+basic,positive,0.1880528403423084,0.07521779019020153
+batty,negative,0.03766748853238704,0.09356587801460317
+beefy,negative,0.08418284828603005,0.15865334127345274
+belligerent,negative,0.0880911695873323,0.19220428766798595
+bendable,positive,0.11508705124256108,0.09594394631404062
+bent,negative,0.13399206534371655,0.1584454768128693
+berserk,negative,0.06457902715176939,0.14851192625329449
+best,positive,0.07769829022453642,0.05733800226405626
+biased,negative,0.13433702620844495,0.21342195519608603
+biblical,positive,0.1346022525283368,0.08704433903932264
+bigoted,negative,0.08401765030554516,0.27101880894661007
+bilingual,positive,0.10008409863024478,0.052400223506950776
+billable,positive,0.05315995882543198,0.0503390995436348
+binary,positive,0.1584727016452851,0.07053007121613084
+binding,positive,0.15444074872521435,0.09241378749647469
+bioactive,positive,0.12841235119827282,0.07108405830043377
+biographical,positive,0.10373048421742243,0.05951946174908119
+bitter,negative,0.08949301705595442,0.21513239007526164
+black,negative,0.09245002410065759,0.12564820502679247
+blasphemous,negative,0.09732231204412647,0.23307228922764062
+blatant,negative,0.10757463543741033,0.2373786843536857
+bleak,negative,0.12378207631420754,0.21502063864526727
+blessed,positive,0.09103449907280908,0.08950770930058875
+blind,negative,0.07216420609928144,0.15892620595362578
+bloated,negative,0.10155567897777167,0.24988322207440145
+bloodthirsty,negative,0.0841782089655015,0.24796019323489785
+bloody,negative,0.06683925160840122,0.1792724387899386
+blurry,negative,0.13333265616446796,0.18462268807191
+bohemian,positive,0.0679655886783639,0.0644244528895859
+boorish,negative,0.07242043556482848,0.27343798961504834
+boring,negative,0.12496104187684141,0.2847587173346199
+boundless,positive,0.12886317971850658,0.12472984090817198
+bountiful,positive,0.08666157568137901,0.06624715566556279
+breakable,positive,0.11204409999818227,0.07405969827388308
+breathable,positive,0.11790748721825602,0.08524978199486327
+breathtaking,positive,0.1537915501686323,0.12846537501627767
+broad,positive,0.18617667604763213,0.10131057839325358
+bronze,positive,0.08172660733363256,0.05836905158676968
+brooding,negative,0.12203833140257127,0.20290376656475856
+brown,negative,0.06820870935952249,0.10384559366852045
+brutal,negative,0.11135173709680776,0.2505101158774659
+brutish,negative,0.09524993435342276,0.2724323670943984
+budget,positive,0.09549800165441126,0.05923606712463533
+burnable,positive,0.08862105753457034,0.05938408588860583
+business,positive,0.11106675957021903,0.05884647714378008
+cagey,negative,0.0775531507003841,0.16706491684337427
+calculable,positive,0.12488934667538523,0.07883378746639297
+callous,negative,0.10048363580396032,0.299549665123475
+cancerous,negative,0.10052903662658584,0.11003757579841074
+cantankerous,negative,0.08068684405519914,0.2582566770885777
+capable,positive,0.16120399278732125,0.12316130786879316
+careful,positive,0.17472206538167698,0.17185026625882585
+cavernous,positive,0.10588216167301652,0.0982756070581549
+celestial,positive,0.11430968755465487,0.07792876611804027
+central,positive,0.09617457138287241,0.05434787624049145
+cerebral,positive,0.11775950445122237,0.10589319425974097
+ceremonial,positive,0.10387097648297026,0.05968235662390747
+certain,positive,0.20949902074663354,0.16927043724817575
+certifiable,positive,0.07281536794510075,0.06609509568929733
+certified,positive,0.07842247601805757,0.03689762849140347
+changeable,positive,0.15890845158736697,0.1382056671407879
+charitable,positive,0.10087829001605199,0.060843640649801786
+chemical,positive,0.14100526384504217,0.07639177122803721
+chewable,positive,0.08335488586363347,0.06092213315107469
+chicken,negative,0.08522337813008424,0.11934516851952354
+chief,positive,0.07839784764831588,0.06586294094685376
+chilly,negative,0.08562272620723753,0.16288603221316456
+choice,positive,0.11590772772007861,0.1101992689794236
+choppy,negative,0.11407504290622955,0.18683906300882552
+chronological,positive,0.10100191535548331,0.05295720455312518
+cinematic,positive,0.15466989356286517,0.10548909876222154
+circular,positive,0.1503073647482393,0.09361998889213152
+civil,positive,0.10145422456356236,0.07896010675403099
+classic,positive,0.1048847376945955,0.06154841174713829
+classical,positive,0.14690915226249351,0.05755412398707962
+classifiable,positive,0.09866467470710708,0.07675588916590385
+classified,positive,0.10075122779481993,0.07334604719757525
+clean,positive,0.13053243488540306,0.11457475449334668
+climatic,positive,0.1148484016244797,0.07868667069874534
+clinical,positive,0.1598831480821908,0.07760948467639094
+closed,positive,0.11868168983810165,0.08348627045106165
+cloudy,negative,0.09055003982723991,0.12643455900384803
+coarse,negative,0.1662468077213782,0.1839518848788697
+cognitive,positive,0.18153603807915178,0.08284976837657772
+coherent,positive,0.21101425632194484,0.11432518664871019
+cohesive,positive,0.18027819730288167,0.10741198270952475
+cold,negative,0.10918453825533281,0.1902313969593213
+collaborative,positive,0.14504381314880688,0.04739477300317958
+collectable,positive,0.10188723880935206,0.06494971611124735
+collegial,positive,0.13080274362593158,0.07610976827290958
+colloquial,positive,0.12605707295472474,0.11614849747467425
+colonial,positive,0.08857302752662027,0.05712349099947997
+colorful,positive,0.177380469994528,0.15965980066668922
+colossal,positive,0.11075395678275946,0.10514150915983049
+commemorative,positive,0.07672226783425656,0.038340469770468545
+commendable,positive,0.14074548311701446,0.1384249394966542
+commercial,positive,0.1365723315806496,0.05916485448579778
+common,positive,0.17693525737511293,0.12144067515166951
+communal,positive,0.13020658780877367,0.07523627895812773
+communicative,positive,0.18684846598466628,0.11738707543460744
+compact,positive,0.17472414318293158,0.08741141219165577
+comparable,positive,0.16889530241430104,0.11576766389618187
+competitive,positive,0.13803627977980204,0.08337529559199874
+complete,positive,0.08761516726973198,0.06093003223966142
+completed,positive,0.06225801889393172,0.041416840804608994
+complex,positive,0.17951607186851257,0.0809407488826383
+compliant,positive,0.14443328504356495,0.08076499909737786
+complicated,positive,0.1994383602381497,0.19321350244309513
+complimentary,positive,0.12595990938966697,0.11893856167025411
+compound,positive,0.14627352882724104,0.08390418820003105
+comprehensive,positive,0.17101122733201973,0.06035128401043917
+compulsory,positive,0.10784725336945153,0.08524023444220398
+computer,positive,0.13813828219631896,0.05328825647104239
+concealable,positive,0.08658246713883444,0.06509725053597672
+conceited,negative,0.09848012306122127,0.2869432613131805
+concerted,positive,0.10797818628744107,0.09250928499168207
+concise,positive,0.14098948377573658,0.08483691203930212
+concurrent,positive,0.11131533779677187,0.06568145442279993
+conformable,positive,0.1286928516506538,0.11917007535074638
+confused,negative,0.11435484436451754,0.2836248010895752
+congressional,positive,0.08559387801506167,0.06523733502323185
+connected,positive,0.158445894487962,0.07961558911176896
+connective,positive,0.14617882650787467,0.08184134506075431
+considerable,positive,0.14447767165305,0.10677206344961103
+consistent,positive,0.21363321021534576,0.12839541998113893
+constitutional,positive,0.12659392828853058,0.10808666439024955
+constrictive,negative,0.11159679273483243,0.1201675496453927
+constructive,positive,0.18282557554674878,0.13622689994254475
+consumable,positive,0.12733960163290184,0.07090570046490324
+contemplative,positive,0.15770250001424574,0.10986226478711072
+contemporary,positive,0.16073374319989164,0.0889138208790986
+contemptible,negative,0.10644688079819069,0.28469253732975197
+contemptuous,negative,0.10675996568895244,0.2748577045570554
+content,positive,0.1754686763000429,0.08506664304882626
+contentious,negative,0.12900266937925256,0.17379523248238596
+contextual,positive,0.1928128870146002,0.09497098519626927
+continual,positive,0.14608048116330966,0.12471573549604377
+continuous,positive,0.20184437889174792,0.10448376791350711
+contoured,positive,0.13429545206740087,0.09233256685851067
+contractual,positive,0.10635925970982543,0.08673652002258238
+contradictory,negative,0.1661163039152766,0.2162285831282512
+contrary,negative,0.11340478596169433,0.16586925155847618
+controversial,negative,0.12890489245205497,0.1753013138759083
+convenient,positive,0.1823021589606263,0.1399889157551254
+conventional,positive,0.217614568435533,0.12510943120791085
+conversational,positive,0.17178470809851526,0.11953904356845227
+cooperative,positive,0.12478639178554093,0.05102189460794638
+copious,positive,0.1301439146294789,0.09747363778279824
+corny,negative,0.08552692552627908,0.19183667339940513
+corporate,positive,0.12849151829590783,0.06979554953152865
+correct,positive,0.17806462908183007,0.14715137377086623
+correctable,positive,0.10619918872124919,0.08720161278258248
+corrective,positive,0.12002622132878692,0.09345562573091008
+corrosive,negative,0.14173392110870406,0.1673944367881032
+corrupt,negative,0.09320725416710153,0.23556625938564538
+corruptive,negative,0.10929185024133352,0.12638182392437244
+cosmetic,positive,0.10743769959075455,0.0664968233070158
+cosmic,positive,0.12972902600660385,0.09790967941542673
+cowardly,negative,0.08161679101080885,0.2963451352973397
+coy,negative,0.04072197351211272,0.08167276328724878
+crabby,negative,0.06533410369967012,0.16794260751417703
+craggy,negative,0.0959786754790531,0.13164118444338957
+cranky,negative,0.06773887820589763,0.21703408254524317
+crass,negative,0.07869828627823602,0.19551631114900345
+craven,negative,0.03578738404781721,0.06330507641121218
+creative,positive,0.16097883771957902,0.06578471404520218
+creepy,negative,0.10162062429502211,0.2203079945463672
+criminal,negative,0.07949170179211115,0.15592057211953297
+crotchety,negative,0.0734332584609139,0.22228560653275936
+crucial,positive,0.1654587914838966,0.12994291736273067
+crude,negative,0.1589349936058368,0.1911844650690631
+cruel,negative,0.0897035935352666,0.26454726474214246
+crystalline,positive,0.14945946989145734,0.0864242760652772
+culpable,negative,0.08013886152904814,0.19360228919680017
+cultural,positive,0.16286776755034718,0.061094485955865155
+cumulative,positive,0.13995907992633091,0.08816730078153315
+curative,positive,0.13126741657925134,0.09781937152436675
+current,positive,0.12190288981360553,0.06654022039267064
+cursed,negative,0.08282697609003031,0.12749494080306867
+curt,negative,0.040159266374998934,0.06293000293468747
+cut,negative,0.10338013825416115,0.10805267227052931
+cynical,negative,0.1286368706605021,0.3074670552515373
+daily,positive,0.07445237496801707,0.043095196326096645
+danceable,positive,0.14819527610353445,0.14633230392777596
+dangerous,negative,0.13169444687787119,0.2703984064347926
+dark,negative,0.1360233939918024,0.1964430168130356
+daunting,negative,0.1098657076947404,0.14174465063463693
+dead,negative,0.06547590191548072,0.16350136267786952
+deadly,negative,0.08474980988433924,0.1687892875291407
+deaf,negative,0.07116129595813298,0.08326296579804121
+debatable,negative,0.1272877846190957,0.16237024053138982
+deceitful,negative,0.09736592387875945,0.26510182159426426
+deceptive,negative,0.1353274585720282,0.2250694349291179
+decorative,positive,0.15978088290427395,0.0735622895782211
+dedicated,positive,0.12145913846022212,0.04827971011145564
+defective,negative,0.13128879372712451,0.15242052636833556
+defendable,positive,0.0945168268952346,0.07505763963151685
+defenseless,negative,0.06415922748514698,0.1844762810068248
+defensive,positive,0.06500885113833986,0.05964475544807567
+deficient,negative,0.12641106226479112,0.15026189006541626
+definable,positive,0.14140741295913803,0.07989039516418524
+definitive,positive,0.15364490682554788,0.09905531559974702
+dehydrated,negative,0.10303451715053188,0.10468601028178222
+dejected,negative,0.07789851052535805,0.20840699075453487
+deliberative,positive,0.12537083779365407,0.0740139232143309
+delinquent,negative,0.06047520656575512,0.16568516964292837
+deliverable,positive,0.12938802379453787,0.06182548481280849
+democratic,positive,0.07948014330014563,0.05204580666332763
+demonic,negative,0.1134739417506265,0.1838958735921816
+demonstrative,positive,0.12145651038855874,0.09150973274637955
+dense,positive,0.17045205140961733,0.13678753882197278
+dependent,positive,0.14978880288339602,0.12247497208242811
+deplorable,negative,0.09810930946387773,0.22161507274489103
+depraved,negative,0.1078948200783483,0.2736932384180075
+depressed,negative,0.10054984921657335,0.24073868735313056
+depressive,negative,0.1146844509015448,0.16158934896267232
+deranged,negative,0.07683734613679614,0.23453591073217883
+derivative,positive,0.1463767046619305,0.07264065810222262
+derogative,negative,0.08270194275112477,0.14929249534700192
+derogatory,negative,0.09994967397761086,0.21206754269163733
+descriptive,positive,0.19540479078785777,0.11322149315803029
+designer,positive,0.0840842519717982,0.046570526904839905
+desirable,positive,0.20464226719901515,0.1743454145293126
+desolate,negative,0.1113377435926452,0.1924962716499501
+despicable,negative,0.0782771738913824,0.20159719389366315
+despondent,negative,0.0639317165921796,0.21768534184619495
+destroyed,negative,0.055206662094556797,0.058155803952518084
+detachable,positive,0.12268024962369656,0.07064225109508977
+detailed,positive,0.18104288904556123,0.09969406658661507
+detectable,positive,0.15021369656877748,0.10342468460356248
+detestable,negative,0.09924827503033477,0.25174215279660866
+detrimental,negative,0.1394539563711874,0.19048196758115435
+devious,negative,0.09568318426294355,0.2457092949804374
+didactic,positive,0.171992654916578,0.13686918580664684
+different,positive,0.18593495101839197,0.1074417765346183
+difficult,negative,0.17309040853729707,0.21023955900065608
+diffuse,positive,0.16387053140699667,0.11102840928929937
+digestive,positive,0.11620426488483468,0.08640717841754915
+digital,positive,0.1286248810230186,0.047930869494173446
+dilapidated,negative,0.0855335145117372,0.12868465618269082
+dim,negative,0.11390115710390672,0.15295414345224548
+dingy,negative,0.09085475979405032,0.1548404879966855
+diplomatic,positive,0.09022311437454021,0.0753886066386441
+dire,negative,0.06324008182256374,0.14313254374286824
+direct,positive,0.06202468443572653,0.056523768794513846
+dirty,negative,0.07958591627694243,0.18985567436398318
+disabled,negative,0.08761092601477993,0.09441308365380074
+disadvantageous,negative,0.11986827694700804,0.18940555049739669
+disaffected,negative,0.07414352875507575,0.1381619221093258
+disagreeable,negative,0.13816875967955128,0.305257508098813
+disappointed,negative,0.08333867377241032,0.23285276498575988
+discernable,positive,0.12491993442383843,0.09054595270900542
+disconnected,positive,0.11470594419709286,0.1036559623066286
+discontented,negative,0.0763405416010055,0.16213787633760954
+discourteous,negative,0.08530777822032598,0.24632532376807595
+disdainful,negative,0.1182027222940487,0.27820761978874314
+diseased,negative,0.0982618044676057,0.1626231568479681
+disgraceful,negative,0.10093978646232307,0.2695608031092025
+disgruntled,negative,0.056067952080543465,0.1729576474109136
+disgusting,negative,0.11954315658072323,0.30394496361664214
+dishonest,negative,0.09677384974264353,0.2752077347561717
+dishonorable,negative,0.08085331544873497,0.20604046754389868
+disinterested,negative,0.12897818007051387,0.1968873910882882
+disjointed,negative,0.1452211882292917,0.21163599576876815
+disloyal,negative,0.08139523027053064,0.25610630921672634
+dismal,negative,0.07889712577062304,0.1467770913708512
+disobedient,negative,0.06190520150271999,0.24187394982085805
+disparate,positive,0.16401833629593252,0.12182676261116596
+disposable,positive,0.11848291635800845,0.08470833546549482
+disreputable,negative,0.09144224084479474,0.2552580455281427
+dissimilar,positive,0.1582811059691746,0.12834927816768205
+distant,negative,0.11049986237921133,0.1489333680906787
+distasteful,negative,0.13137833189230555,0.28730988943001234
+distinct,positive,0.19103868439624333,0.108749650038178
+distinctive,positive,0.19395866248988994,0.11807036122577336
+distinguished,positive,0.12259378012164501,0.0656318945300796
+distraught,negative,0.05893427506865225,0.21492375772683675
+distrustful,negative,0.08988531268806962,0.2339879024877666
+disturbing,negative,0.16728416367901103,0.286837191266665
+divergent,positive,0.1772631575382057,0.13429844940674873
+diverse,positive,0.1995327568125608,0.0933015064271551
+divine,positive,0.13796244328305943,0.12251554518992071
+divisive,negative,0.1286612262571597,0.2020225946843643
+dizzying,positive,0.13549531698481182,0.12346442377194157
+doable,positive,0.104159973224498,0.09009457341951146
+documentary,positive,0.08099410475041209,0.07434949765327416
+domed,positive,0.11155776352217679,0.08030237621847197
+domestic,positive,0.1216041306474133,0.07404389884504345
+dominant,positive,0.1571441651874743,0.12551333214454516
+doubtful,negative,0.12425941126022323,0.18984836494148122
+dowdy,negative,0.05398175046560782,0.11032864472682147
+downhearted,negative,0.04913401518451421,0.11122716682871524
+downloadable,positive,0.08903642030751854,0.0436545376574421
+drab,negative,0.10886006205464425,0.1629863222561
+dramatic,positive,0.16136100056008076,0.12693709021847632
+dreadful,negative,0.0994975739686769,0.24395452158951006
+dreary,negative,0.11933125878132028,0.2413206573584155
+drivable,positive,0.07362494088292401,0.05318734753486102
+drowsy,negative,0.06950852534736639,0.14131928309170674
+drunk,negative,0.0572067254687339,0.22012144756838795
+dual,positive,0.13735569036359727,0.061217531710874885
+dubious,negative,0.13003796783435467,0.21414288469313283
+dull,negative,0.13574235393327033,0.24817897146603743
+durable,positive,0.1769699206292362,0.11975482404059706
+dynamic,positive,0.23418197474472507,0.10317937948512249
+easy,positive,0.165042377146105,0.15696992370555726
+ecological,positive,0.1657044196366494,0.07806313135134982
+economic,positive,0.15685673486877932,0.09320200409441919
+economical,positive,0.18558615997690983,0.12672646360630507
+economy,positive,0.12359902234852481,0.06608737757765376
+editable,positive,0.12127267093497376,0.06893654676546689
+educational,positive,0.15822721584884195,0.05616424223632764
+effective,positive,0.182933700714265,0.14769156634237457
+efficient,positive,0.20187166458529363,0.12461939720072521
+effortless,positive,0.16630762089278514,0.15541750087905676
+egalitarian,positive,0.1707465113254133,0.14830121414451464
+egomaniacal,negative,0.0886296280043866,0.22894086131839284
+elaborate,positive,0.18488519969405265,0.13735989885035466
+elastic,positive,0.1765139195706464,0.1167327819010825
+electric,positive,0.09886108584324346,0.05507994518150717
+electrical,positive,0.13829899597049491,0.0712988389780552
+electronic,positive,0.16534034806756578,0.06881952421203748
+elegant,positive,0.1901661493277596,0.16517009109331773
+elementary,positive,0.07151038011094289,0.03824160562164433
+elite,positive,0.09803486934991011,0.08516621343969157
+emaciated,negative,0.10361964069040332,0.2201652058313579
+embarrassing,negative,0.10930415115116122,0.2596426944860975
+emblematic,positive,0.14052497131265784,0.12039479376530311
+emergency,positive,0.12164659929002894,0.0940514305531234
+eminent,positive,0.11812610050344004,0.08517537453753678
+empirical,positive,0.19416837538663456,0.11677869822921039
+empty,negative,0.11875834342208691,0.1314839841581584
+endemic,positive,0.07204162745036988,0.05965696869478262
+enduring,positive,0.1638533711994872,0.1323153246558179
+enhanced,positive,0.1801123303470485,0.09390381675712185
+enormous,positive,0.14323576822156173,0.126940523211349
+entire,positive,0.12310797861498554,0.1046011625590807
+entrepreneurial,positive,0.13720777590024957,0.06796118695991546
+enumerable,positive,0.0907300720024519,0.054052657567731234
+enviable,positive,0.12795634323766206,0.1005633341283911
+envious,negative,0.10872629169688261,0.2502839695001136
+environmental,positive,0.16179210352292075,0.08053863517753848
+episodic,positive,0.1205520824071138,0.10249036296290455
+equal,positive,0.14479009343269697,0.10735084417214313
+equitable,positive,0.14082775167413555,0.09712702853084448
+equivalent,positive,0.12669202779090732,0.08811192392147606
+erasable,positive,0.09914907903640295,0.06003361956560237
+erect,positive,0.08091718151595001,0.052936393338228194
+erroneous,negative,0.1406558521677838,0.1985058335440695
+eruptive,positive,0.10553886366104728,0.07298350316860969
+esoteric,positive,0.1615736178411115,0.10459976275754398
+essential,positive,0.20419139383085286,0.12684037576424595
+ethereal,positive,0.166255643087982,0.15159471823460158
+ethical,positive,0.17241299984169003,0.13062402832563058
+ethnic,positive,0.11382673247832875,0.0838707122425537
+everlasting,positive,0.10897405193685722,0.10608695117358972
+every,positive,0.11798690517438773,0.10457809294257
+evil,negative,0.10442586149252714,0.20931033194349746
+evocative,positive,0.19540808134678986,0.1656925641419637
+exact,positive,0.15133985996214047,0.12737724790435798
+excellent,positive,0.17198696738597805,0.13585620514940938
+exceptional,positive,0.1725665953167067,0.12952884661121847
+exclusive,positive,0.1288841946773689,0.08316637081095071
+excruciating,negative,0.11373737025725851,0.20632360038627373
+executable,positive,0.12604687652687582,0.07264087159669906
+exemplary,positive,0.1475693536728534,0.11970468230083132
+exhaustive,positive,0.15223270734381222,0.12340889069672187
+existing,positive,0.14562303063171805,0.10369384079463423
+exotic,positive,0.15753818157112956,0.12081267670701012
+expanded,positive,0.05678795948620587,0.037920051044784485
+expansive,positive,0.19456457924304033,0.1323479643314124
+expected,positive,0.14290189824573502,0.11199564520705839
+expeditious,positive,0.1240442554689756,0.11030884569430084
+expensive,positive,0.1624811577917204,0.14747482493383296
+experimental,positive,0.15508642281255422,0.07479026073373142
+expert,positive,0.11933836688603121,0.08346093353159267
+explainable,positive,0.12545056213257377,0.10789362337174302
+explicit,positive,0.19324619684255398,0.1794937112131343
+explosive,positive,0.11657531364906593,0.08910089413526955
+exponential,positive,0.15544221199017783,0.09460475415190223
+expressive,positive,0.22411979917030722,0.1572583632629974
+exquisite,positive,0.17818907028214512,0.13579169993890447
+extendable,positive,0.12459396576455081,0.0792357750924566
+extended,positive,0.1243329214463108,0.09626353287731941
+extension,positive,0.12038823017844222,0.07162165674078726
+extensive,positive,0.16618269880081016,0.10288983581132659
+exterior,positive,0.14136172668453745,0.08297901741989928
+external,positive,0.09300016689226816,0.06029265583479546
+extra,positive,0.12128024632665702,0.09475348970179744
+extraordinary,positive,0.14797777389930575,0.14184818357371146
+fabled,positive,0.09534920708670783,0.0899976475364781
+facial,positive,0.1434542657672875,0.10052062219505242
+factual,positive,0.15046501994536815,0.13506919148441282
+failed,negative,0.0502275507172076,0.056314978931061334
+faint,negative,0.11684853161583095,0.2067313574053847
+fair,positive,0.0799278569516562,0.05926419715985647
+faithless,negative,0.05786121839091287,0.10673115360868078
+false,negative,0.12182819032382036,0.19645782530859826
+famous,positive,0.13925295035768503,0.10157552470988263
+fashionable,positive,0.13603440178159718,0.13582751365812762
+fast,positive,0.13002234853588915,0.12382293142209508
+fat,negative,0.08963522667038837,0.1442296228300664
+fatal,negative,0.0800219554859303,0.16668470314398293
+faulty,negative,0.13040359322982759,0.14410880381279603
+fearful,negative,0.10487135263379832,0.26086517899902467
+feckless,negative,0.07904202559599291,0.2535272506126794
+federal,positive,0.10308774249977055,0.07719145015281842
+felonious,negative,0.05002797479504225,0.13418544158902865
+feminine,positive,0.14331717403245686,0.14316351153239046
+fertile,positive,0.13955479562018738,0.10894584382019382
+festive,positive,0.10542715971963752,0.0886371176340172
+financial,positive,0.12736188967652554,0.089021752884245
+finite,positive,0.16064815226919837,0.07719374848291405
+fireproof,positive,0.10621425818864866,0.06304719998744632
+firm,positive,0.08283175136747829,0.046158697556050204
+first,positive,0.06194894385304051,0.05620236992620133
+fiscal,positive,0.10907639280592525,0.07003366314564152
+fit,positive,0.14819927894944449,0.10294882426898713
+fitting,positive,0.1572114173258078,0.08841239552463404
+fixed,positive,0.1755226494039422,0.09523394780780743
+flabby,negative,0.11436324458375163,0.23199875806708808
+flavored,positive,0.10404171004690421,0.08586613035105507
+flavorful,positive,0.14281918499665483,0.1419406199021073
+flawless,positive,0.1524205598127102,0.1401725835639751
+flexible,positive,0.21879200642795113,0.10974041430081918
+floppy,positive,0.0954758709346543,0.07413270220442236
+floral,positive,0.1374465187583502,0.07268419536121175
+flowering,positive,0.09315759338847457,0.06642025564501414
+fluent,positive,0.0796716960791867,0.07288858148844127
+flying,positive,0.06066154264569772,0.039273187714540726
+foggy,negative,0.06264997034902259,0.1251698351646679
+following,positive,0.0800142937133604,0.04092585682983593
+foregoing,positive,0.12866752869227094,0.11128100864000598
+foreign,positive,0.10082798258365146,0.07875847297643557
+forensic,positive,0.09948130482140993,0.0635671114443881
+formal,positive,0.16822125349315906,0.10381576379174387
+formative,positive,0.10118160810687202,0.05518814497518578
+former,positive,0.07842297907269245,0.04941202217565673
+formless,positive,0.13517585834032303,0.1238314143929544
+foul,negative,0.06679067535825942,0.149199334987163
+fractional,positive,0.13020347584098751,0.07278355876127642
+fragrant,positive,0.12645748738393545,0.10766611866557417
+frail,negative,0.09711701689120719,0.224311407323378
+fraternal,positive,0.07823089294705664,0.05362712955250089
+fraudulent,negative,0.10721929493303597,0.16256669175833635
+free,positive,0.10077773943767801,0.08689068593745815
+fresh,positive,0.12116065210787423,0.11583229480776022
+frightening,negative,0.15798538092508255,0.2874417691965098
+frightful,negative,0.10769877549701685,0.22899016648897405
+frigid,negative,0.08527155216585706,0.16130096413250092
+fruitful,positive,0.14927402505244106,0.12119247240574939
+fruitless,negative,0.07600828925828168,0.14584659139775294
+frumpy,negative,0.07522795484593853,0.18322761503869037
+frustrated,negative,0.08813849003629397,0.2603647632858276
+full,positive,0.13745107595310135,0.0842669632105189
+functional,positive,0.22526014082042017,0.09634429482620165
+fundamental,positive,0.2066547316580024,0.11083748279443871
+future,positive,0.11583693072564458,0.08137912634865074
+futuristic,positive,0.14424525223637794,0.12586282006426094
+gainful,positive,0.0781911459269049,0.07048522182358341
+game,positive,0.06337865860099799,0.057224292763893465
+gaseous,positive,0.1371973487223274,0.08148381001043717
+gaunt,negative,0.043617849363911256,0.10474153859744642
+general,positive,0.11418534481151794,0.09148559765103412
+generative,positive,0.16214396098278977,0.06340325002294203
+generic,positive,0.19235207362067028,0.12292342095574499
+geographic,positive,0.1384168613802966,0.06860373101831875
+geologic,positive,0.12572977190142326,0.05758503007234549
+geometric,positive,0.19306193936694171,0.07858664643652052
+geriatric,positive,0.08725713186924362,0.053913476320787614
+ghastly,negative,0.10417457040483091,0.24357269472328513
+ghostly,negative,0.10587245433391444,0.1708820378507286
+gifted,positive,0.11028974942390932,0.09140588983246481
+glass,positive,0.12456445528490039,0.09421000640938727
+glassy,positive,0.12927972014123099,0.11655940488651614
+global,positive,0.1402863169720869,0.05348782478744084
+globular,positive,0.11364390007563441,0.0866530806696505
+gloomy,negative,0.13185442307992198,0.23971001147321705
+glorious,positive,0.11947964630948288,0.11329227002316739
+glossy,positive,0.12135471626347528,0.10079691907875478
+gold,positive,0.08821306244637803,0.07151850249733721
+golden,positive,0.09073720600839004,0.08742320364860694
+graceful,positive,0.18068029852958065,0.16725597419848995
+gradual,positive,0.14667051987572755,0.09597429609961113
+grand,positive,0.07017284727624833,0.04383977782317968
+graphic,positive,0.14254124732250742,0.06591312872465822
+grave,negative,0.07175951451476448,0.10472491127740588
+gray,negative,0.06759900517707358,0.09989959117746576
+great,positive,0.14249078777442847,0.12179079027610196
+greatest,positive,0.055055452455792867,0.05015409822073324
+greedy,negative,0.08036957145587281,0.26459626584843104
+grey,negative,0.08419464069029671,0.11239985290499098
+grim,negative,0.09507270609596533,0.22354605539330805
+grinding,positive,0.10411020482041161,0.0733247179112298
+groggy,negative,0.07401442296097385,0.20901006531874308
+grouchy,negative,0.05101035553552866,0.1761613768573466
+grubby,negative,0.066012294305179,0.14743449646161408
+grumpy,negative,0.066430541843598,0.20991297737623166
+guilty,negative,0.04875785955834326,0.13656263431628898
+gullible,negative,0.09400397419538414,0.2672413951962782
+habitable,positive,0.11180602763143772,0.09453467523628348
+half,negative,0.06833009863437434,0.07321082117427244
+hapless,negative,0.060498414832327055,0.2148087293108398
+harmful,negative,0.15329046522019552,0.20344112983914753
+harmonic,positive,0.16907315621254412,0.07741431911382332
+harmonious,positive,0.19262454621270553,0.12357661983108582
+harsh,negative,0.12573232990855504,0.2463034855716253
+hateful,negative,0.09978751084251199,0.2938945581447706
+haughty,negative,0.11173281401192849,0.2600766921251275
+hawkish,negative,0.09854368740090572,0.16795362919937792
+healthy,positive,0.1483795855994436,0.12477048161331414
+heartless,negative,0.07704657227536456,0.2436836007339428
+heavenly,positive,0.10028750709908743,0.09944674715471652
+heavy,negative,0.12963041212401816,0.129692566770147
+heinous,negative,0.09013237467514885,0.21407084590188064
+hideous,negative,0.10988457561938661,0.23327276856537418
+high,positive,0.1444644784252467,0.0990088044406838
+historical,positive,0.1441838371012865,0.07586588093025251
+holiday,positive,0.06920348337624861,0.06155671903642973
+holistic,positive,0.1763887777983907,0.06922943680718797
+hollow,negative,0.11978790249707345,0.1274987229043373
+homogeneous,positive,0.19591955905110167,0.10708927559341298
+hormonal,positive,0.13632447664590253,0.08435328015656537
+horrendous,negative,0.08779069023847338,0.22295736748357814
+horrible,negative,0.096272776950769,0.25263415093920294
+horrid,negative,0.09779819630035086,0.2366007559447406
+hostile,negative,0.10326556756352574,0.23320650357661113
+hot,negative,0.08348272909050362,0.10503886917407376
+hotheaded,negative,0.08377201061576318,0.2593792479308843
+house,positive,0.07481421104828787,0.055515776733980324
+human,positive,0.15520403195625623,0.1314727745959653
+humanitarian,positive,0.11271164704302154,0.05559634335555269
+humorless,negative,0.09749347703241162,0.29378946195553557
+hurt,negative,0.058733466617435094,0.20643083480784952
+hurtful,negative,0.09862779700887796,0.27042671799290685
+hydraulic,positive,0.12628721127986747,0.0676035830073711
+hydrothermal,positive,0.1246241108758162,0.07080678756411592
+hygienic,positive,0.13671861802182694,0.09575512686614313
+hyperbolic,positive,0.14344883504075215,0.08410086411715063
+hypothetical,positive,0.1684139606599739,0.1227416154013564
+icky,negative,0.07367859925921988,0.14325565817397676
+icy,negative,0.10931718300351939,0.17043109243605287
+ideal,positive,0.18623439476326373,0.14270524952234523
+identical,positive,0.15048296277709206,0.10459151577897245
+identifiable,positive,0.15762234702659522,0.1198622211720956
+idiosyncratic,positive,0.20811707670575363,0.20523264264170868
+ignorant,negative,0.12235195382365911,0.3019276728131333
+ill,negative,0.05612846442508585,0.17586341869512723
+illegal,negative,0.10157345633235616,0.16204505280916365
+illegible,negative,0.09954332973742919,0.13145984939235164
+illegitimate,negative,0.07977254880977865,0.15692211132234815
+illiterate,negative,0.0956268712520704,0.177186705110175
+illustrious,positive,0.12392439921757926,0.09673559556189627
+imaginative,positive,0.2075170098102015,0.1790554861917871
+imitative,positive,0.17271089118437602,0.16582165442257754
+immanent,positive,0.15343463635680216,0.1304730696021265
+immense,positive,0.14981476927584536,0.13002489535922115
+immoral,negative,0.11258453775735688,0.27943064457682304
+impassable,negative,0.09499352190761469,0.15356160231796018
+imperial,positive,0.07974301898561371,0.07042375135218676
+impertinent,negative,0.09828513927649364,0.25855149276712835
+implicit,positive,0.19790994062982928,0.15701532268702856
+impolite,negative,0.10692809150880284,0.26493933699935834
+important,positive,0.18631002152766835,0.14400958139977668
+impossible,negative,0.13574270597373803,0.18573837664236048
+imprecise,negative,0.16702175634761865,0.20017077300459452
+impressive,positive,0.15463453439768673,0.1195560054780106
+improper,negative,0.13474121069921277,0.20034774436604186
+imprudent,negative,0.10051312090489621,0.24566974362749366
+inaccessible,negative,0.1322640569603298,0.1671195424833089
+inaccurate,negative,0.14766654890870917,0.22352756200017893
+inactive,negative,0.07338151201211794,0.08712814416129341
+inadequate,negative,0.15611077215649974,0.19715973719544078
+inadmissible,negative,0.09368156479152084,0.16211738447753152
+inadvisable,negative,0.12007858592255544,0.20140362593004058
+inalienable,positive,0.11186196020380261,0.10075728390792833
+inane,negative,0.11053090512159011,0.2508816862526112
+inappropriate,negative,0.14448777592641784,0.26309084697588103
+inattentive,negative,0.0881300274333163,0.23425319026235814
+inaudible,negative,0.10501455950344314,0.15066960632829243
+incandescent,positive,0.10594190133715722,0.07091980230466824
+incapable,negative,0.13056911369291968,0.21356025191505834
+incidental,positive,0.11490399596880564,0.11340835370855425
+inclusive,positive,0.15926518990783134,0.07754710730695655
+incoherent,negative,0.1414747283884323,0.26572601334555657
+incomparable,positive,0.15093489917239558,0.12071384814115643
+incompetent,negative,0.09549277170840537,0.28780094591534827
+inconclusive,negative,0.09731378673116979,0.15568752276307343
+inconsequential,negative,0.14495603471592886,0.26171971465434374
+inconsiderate,negative,0.07704092606996855,0.2993725346543861
+incontrovertible,positive,0.11008473342815359,0.10443161692221313
+incorrect,negative,0.14830929846279933,0.19621070918749892
+incorrigible,negative,0.09080737929238722,0.255974677094872
+increasing,positive,0.11320718227731824,0.10612161431320803
+incremental,positive,0.17632913425171037,0.09744467262811915
+incurable,negative,0.0885553691037972,0.16647212260367608
+indecent,negative,0.0932222184844671,0.19243875240901132
+indecipherable,negative,0.12364792064110383,0.1693866328430759
+indecisive,negative,0.0877379155404058,0.21062041997894762
+indefensible,negative,0.09766556380520046,0.21332013264597516
+indefinable,positive,0.12555772951855507,0.12246309536482959
+indelible,positive,0.10679506840165949,0.10125915972304711
+independent,positive,0.10367718140127324,0.07975294306518364
+indeterminable,negative,0.11576471083246852,0.1290255875116018
+indicative,positive,0.16694925417336137,0.1313944030830355
+indifferent,negative,0.1272266291191774,0.2889141802753389
+indigenous,positive,0.12194505350752713,0.07749801443808782
+indispensable,positive,0.17276349475191735,0.1673747110564945
+indistinct,negative,0.15040974432255363,0.16960323458707663
+individual,positive,0.16844135621806935,0.10324041787858756
+indivisible,positive,0.12613711494307203,0.11367922458630346
+inductive,positive,0.16156770012457855,0.09348449245281233
+industrial,positive,0.13858728773523737,0.06486785938832326
+ineffective,negative,0.1313933707549441,0.22569207246585682
+inefficient,negative,0.158301878715594,0.2098017432499456
+inelegant,negative,0.13170432175735594,0.22166069397269367
+inequitable,negative,0.11855740361319936,0.179106363202075
+inexact,negative,0.15094596894603635,0.15333889237030285
+inexcusable,negative,0.10929110162326437,0.26467525519668317
+inexhaustible,positive,0.13947573469014352,0.13907977656282655
+inexpedient,negative,0.08535885255909538,0.16485013933895037
+inexpensive,positive,0.1708801512981264,0.11123473112387446
+inextricable,positive,0.12410429936657236,0.12356238782485819
+inferior,negative,0.15164980760280342,0.2022224140740503
+infinite,positive,0.1632470287432982,0.10317350795732295
+infinitesimal,positive,0.15801167408529357,0.09960098340736792
+inflatable,positive,0.11696609861276121,0.07346571611244622
+influential,positive,0.13787555592421388,0.10332765907102695
+informal,positive,0.16250527322280098,0.12664604857137582
+informative,positive,0.18997198716051092,0.1298631724402716
+informed,positive,0.15333800359512062,0.14149608140817896
+inherent,positive,0.20193824616838427,0.1608290054061681
+inhibited,negative,0.13435895354088304,0.1747499034874284
+inhuman,negative,0.10659344055367827,0.21713149704403684
+injudicious,negative,0.10340134018492966,0.24367822862677277
+injured,negative,0.05733235154098913,0.09420746209589752
+injurious,negative,0.11707464719088861,0.21847533733189384
+innate,positive,0.17661358438181837,0.14995485979458714
+inner,positive,0.14582577213309167,0.09964825072435816
+innovative,positive,0.1943005537498368,0.08207013373747979
+innumerable,positive,0.13606714279109786,0.11561749336497862
+inoperable,negative,0.10183834744331285,0.1354544580288827
+inoperative,negative,0.09660459181795045,0.13461621784278013
+inopportune,negative,0.0967335739677744,0.18268994145418893
+inordinate,negative,0.10354796369815213,0.14417053387460055
+insecure,negative,0.12113859613930247,0.2764711982378467
+insidious,negative,0.12897037755597282,0.25088114829333585
+insightful,positive,0.17452064165678358,0.17234517086392434
+insincere,negative,0.12118681344065341,0.3008781197104496
+insipid,negative,0.12985443024650217,0.2706183678311266
+insolent,negative,0.10156165985334299,0.28374622541301997
+inspirational,positive,0.1426450263646525,0.1044930508846139
+instant,positive,0.1210507522997131,0.10620108677204161
+instantaneous,positive,0.17857960305064327,0.1164097735701143
+institutional,positive,0.18217627507112877,0.08910574156865503
+instructive,positive,0.18428900411185858,0.168182414678628
+instrumental,positive,0.09922728155143636,0.05573242070274437
+insubordinate,negative,0.07886716345923997,0.26364638126541184
+insufficient,negative,0.14813396015050112,0.15927367928145708
+intangible,positive,0.12584782618098017,0.09699810919563445
+integral,positive,0.16071311311977673,0.10934883953062675
+intellectual,positive,0.17051839269622837,0.12465741637763383
+intelligible,positive,0.15120622248340845,0.12856351086083778
+intended,positive,0.13606098883456813,0.1231910234185121
+intensive,positive,0.156013372561085,0.09954688459559656
+interactive,positive,0.13925247168863986,0.05284015445979892
+interchangeable,positive,0.15758128575072464,0.09413732708050827
+interdepartmental,positive,0.1122426577958844,0.055501404621983726
+interesting,positive,0.21199690357851245,0.19696899792196584
+interior,positive,0.12195004569868811,0.06743960590117212
+intermediate,positive,0.12335492991404118,0.07047057252180261
+internal,positive,0.1825183180018655,0.12011495687901819
+international,positive,0.10936990375657422,0.03941380365862502
+interpersonal,positive,0.16831378520271797,0.10672769786870195
+intolerable,negative,0.10293645836303646,0.24893315888845702
+intravenous,positive,0.10587325322991634,0.07355515954288011
+intricate,positive,0.20006204928229135,0.13718000072863967
+intrinsic,positive,0.21756101793946916,0.14008908095903944
+introductory,positive,0.12715866957324856,0.08329278152789009
+intuitive,positive,0.2317206043036822,0.15527800433306488
+invalid,negative,0.08370675250138901,0.13820401194533058
+invaluable,positive,0.14124944415071478,0.11988677601356283
+inventive,positive,0.19053396468337816,0.17360331876606275
+inviting,positive,0.15313112449486777,0.15184652613080069
+inward,positive,0.13186178260769973,0.11355339234198511
+irascible,negative,0.1062505272063071,0.26168371777432836
+irate,negative,0.06296141925556915,0.2146159350375022
+iridescent,positive,0.13572336565600077,0.11072037091821196
+irrational,negative,0.15223026866588346,0.2596486991150095
+irrelevant,negative,0.1673716972650487,0.24117631204477985
+irresponsible,negative,0.09755959658161599,0.29846877182667175
+irritable,negative,0.10464492826723812,0.28736167587910366
+irritated,negative,0.051195577630191544,0.07227906265147117
+jaded,negative,0.09990752727613303,0.23059906681848696
+jagged,negative,0.12460904534884595,0.1535059362856173
+jazzy,positive,0.11209502250088295,0.10702562361257151
+jealous,negative,0.07584363055498164,0.23236680087893336
+jerky,negative,0.10875606836422651,0.1448747181687777
+joint,positive,0.11629177864675123,0.05333952270521365
+joyless,negative,0.09165855544328307,0.21108280179473068
+judgmental,negative,0.12382230818040095,0.2669508942675623
+judicious,positive,0.144033754560356,0.13933264015269323
+kaput,negative,0.056143032671583465,0.1289665593680862
+key,positive,0.1477940082033442,0.07270060860569083
+kind,positive,0.1440783978166163,0.14322622858633016
+knightly,positive,0.0838068240039598,0.08239817071498136
+knobby,negative,0.10517639259798701,0.12055519892601296
+knotty,negative,0.07381096925235604,0.1101129417657449
+knowable,positive,0.13093378863369462,0.11556801451969151
+lame,negative,0.060221441261934384,0.18784724655779989
+lamentable,negative,0.10593976646202646,0.20224622871925046
+lanky,negative,0.08760199109935446,0.18250061000886267
+lascivious,negative,0.10394241578602302,0.2188464144458644
+last,negative,0.05755282102379701,0.08108718210740516
+lasting,positive,0.13713807554696478,0.09289027505412197
+latent,positive,0.1603051728146338,0.119123734960558
+latter,negative,0.1066514856417386,0.12301723565944771
+laudable,positive,0.13879621934332304,0.13379612318867243
+laughable,negative,0.10839991448165708,0.24814110932866917
+lavish,positive,0.12688425660024794,0.11676609275020557
+lawless,negative,0.04861136336992204,0.13981679520528653
+lax,negative,0.07814535380928364,0.12574850122488354
+lazy,negative,0.08537927945869936,0.2505044673818575
+lean,negative,0.10546218425255002,0.1441888008946568
+learnable,positive,0.11426013653349965,0.06001845081540192
+learned,positive,0.05982973740765653,0.05389347305676243
+leather,positive,0.11384269612456029,0.0902954676359105
+lecherous,negative,0.08389909839465357,0.2676846626742167
+left,negative,0.0855646247830137,0.09013336055025886
+legal,positive,0.15786095284187185,0.12714523715433537
+legendary,positive,0.11489245424500971,0.09446639756735152
+legible,positive,0.13457026227907476,0.10341900157719998
+legislative,positive,0.10906009362962552,0.06716567156532449
+lethal,negative,0.11971715983484578,0.16169136599411607
+liable,negative,0.098306963838825,0.14756482181128247
+libelous,negative,0.0727127203209089,0.19747500652691136
+liberal,positive,0.07528448986196586,0.05895197482087773
+licensed,positive,0.07276958941083822,0.04677862275245085
+lifelike,positive,0.16908011269912823,0.15168623311371474
+lifelong,positive,0.1038672806709895,0.083579926421667
+light,positive,0.15472449048652948,0.12043024972302928
+limited,positive,0.17530139817562265,0.11455489740380055
+limp,negative,0.06869773785650019,0.16421868815699805
+linear,positive,0.16057683059477826,0.07884692840137877
+linguistic,positive,0.17713790929117665,0.08010953351401094
+literal,positive,0.17416479565935278,0.16106966238656914
+literary,positive,0.1515460321935325,0.08003152014481746
+literate,positive,0.11840255425357211,0.10957127774363708
+lithographic,positive,0.08765376043547435,0.046293727052590626
+little,negative,0.10891835850280403,0.18844585925637977
+livable,positive,0.10226094247766128,0.05574127761873468
+livid,negative,0.05576865619021297,0.21206315585588964
+loathsome,negative,0.1048736416108618,0.26644805003280897
+logarithmic,positive,0.14707528854784863,0.06860782756354578
+logical,positive,0.20328207298415008,0.13275694131217464
+logistic,positive,0.11333740157572912,0.05946673834472036
+long,negative,0.11664472806184606,0.12706830241987663
+long_term,positive,0.15758705883999535,0.1013143473139552
+loose,negative,0.10689776933842972,0.16170227797563277
+lordly,positive,0.08018673838438639,0.07397813948887742
+lost,negative,0.054745823469068366,0.06969076592043867
+loud,negative,0.10409539718942733,0.18439007203794266
+lousy,negative,0.08608288509680871,0.21632061003676742
+loutish,negative,0.06850809323665902,0.23529661933490992
+low_calorie,positive,0.0990446800015748,0.08650326659921084
+low_risk,positive,0.13512943826375604,0.10678643183592075
+lucent,positive,0.051308678672310475,0.02950684451108634
+lucid,positive,0.1542678786477968,0.13716125851461633
+lucrative,positive,0.11092230667192465,0.10584365216539415
+luminescent,positive,0.1363172515311141,0.08852794893084592
+luminous,positive,0.16759870669051344,0.1261054355365139
+lumpy,negative,0.07727572829287399,0.1550049603370194
+lush,positive,0.13567846071564985,0.11876316377520608
+lustrous,positive,0.15353027774126793,0.12951949083754508
+luxurious,positive,0.14069284850725416,0.10587966624869151
+lyrical,positive,0.16530031336041245,0.12598972275370435
+mad,negative,0.07416243781738267,0.1835075148093911
+magenta,positive,0.07986817007645425,0.0668154907366571
+magical,positive,0.13967096028590248,0.1334879614666822
+magnetic,positive,0.1413382200702898,0.07262800601002736
+magnificent,positive,0.14414186251399055,0.11228646612974759
+main,positive,0.11888614499836771,0.06637960030859771
+majestic,positive,0.12041828766784349,0.09963095909604926
+maladjusted,negative,0.06488452604303897,0.16359064447778862
+male,negative,0.08883515910417206,0.10185942921330646
+malevolent,negative,0.10468177040285354,0.2203249294848665
+malicious,negative,0.10512045186355075,0.22482155598113387
+malignant,negative,0.11040654849930895,0.1475988634256572
+manageable,positive,0.15150505225707073,0.11983379773878415
+managerial,positive,0.09848531752538683,0.05523485407619825
+mandatory,positive,0.1292892430999017,0.09778835631018078
+maneuverable,positive,0.1306563178121364,0.12277256531579385
+manual,positive,0.13894772409479852,0.05844235740815043
+marked,positive,0.14779779621842234,0.11736145373565667
+marketable,positive,0.13832616098796852,0.08809789032343487
+marvelous,positive,0.12641372847558716,0.12009573210892646
+masked,negative,0.06408944589104297,0.12759754463177514
+massive,positive,0.1337627307924994,0.10633452556555767
+master,positive,0.07543242801305779,0.06263063379349147
+masterful,positive,0.16436306924447097,0.1419608295257344
+matchless,positive,0.05788051964661693,0.0521588295599279
+material,positive,0.1926554008217352,0.08584574034903943
+maternal,positive,0.06595135258752656,0.06383938261609842
+mathematical,positive,0.1564886273237121,0.05953878737535987
+mature,positive,0.15880271273261626,0.1410959892185009
+meager,negative,0.08593316059187821,0.11546888483359441
+meaningful,positive,0.22673844276325458,0.15275179259771138
+measurable,positive,0.1833589002895935,0.09432597986365594
+mechanical,positive,0.1752377048413072,0.08452891192649635
+medical,positive,0.13514035520702028,0.07484587764741352
+medicinal,positive,0.11789984914649035,0.06916473120802022
+meditative,positive,0.17495176786582067,0.11203347932878005
+melodic,positive,0.16680422245959217,0.10558966097201107
+menial,negative,0.06746184534765493,0.1202501206784751
+merciless,negative,0.09863091900137079,0.2412117044210216
+mere,negative,0.1250026555331424,0.16665434692233355
+metabolic,positive,0.1583809183171358,0.08558011625467896
+metallic,positive,0.16556510764572516,0.10761310106801147
+metaphoric,positive,0.16129566329882725,0.13829190110910966
+meteoric,positive,0.08172213037377828,0.05813424399055886
+meticulous,positive,0.1587594902133576,0.12122653698386705
+microscopic,positive,0.15859355129412792,0.0955681286784249
+middle,negative,0.08320821212882752,0.08655670237927708
+mild,negative,0.13754960884316955,0.1742132395594801
+miniature,positive,0.1334831695999652,0.07097621269471742
+minimal,positive,0.20703773136290426,0.12523299028180893
+miraculous,positive,0.11373250173859288,0.106237918481379
+miscellaneous,positive,0.08707547892254909,0.06096952605360897
+miscreant,negative,0.0550346892342768,0.1827656013751024
+miserable,negative,0.09121313032635098,0.26576275305777497
+miserly,negative,0.07322435783426534,0.21203916934282174
+mission,positive,0.07426224479699908,0.04098142141501288
+mistaken,negative,0.08726657083226616,0.1395539824597424
+mistrustful,negative,0.09730609084783827,0.2405999252243866
+mixed,positive,0.10836468538985543,0.09786905403548377
+mnemonic,positive,0.12795813218549382,0.06288734681023318
+mobile,positive,0.11590144220579617,0.0439949130715706
+modern,positive,0.18536738587401258,0.09364458128386828
+modest,positive,0.1480930024557265,0.12747141903806952
+modular,positive,0.17047405068957452,0.06092377475052629
+monetary,positive,0.13239751416797083,0.0854965738991562
+monotone,positive,0.13495263928328774,0.12556402523658738
+monumental,positive,0.13660216188317,0.06371020188246779
+morbid,negative,0.13015097484620114,0.231064338627566
+moronic,negative,0.09412138114793321,0.2849499959129066
+morose,negative,0.10951661483591571,0.2540782306107612
+motionless,negative,0.09421762889655519,0.14742645390173623
+motivational,positive,0.11041142180125298,0.06645939898200642
+motor,positive,0.08273341880942162,0.04547937608419618
+movable,positive,0.14177124343155287,0.07240478853195342
+muddy,negative,0.07707519477541884,0.1336539024929635
+multicultural,positive,0.1270108666372575,0.054951464397175735
+multifaceted,positive,0.1833353727416514,0.1010685708407453
+multipurpose,positive,0.09265729955907821,0.04260910905213677
+multitalented,positive,0.10131102158112607,0.09348470169246556
+municipal,positive,0.08886889963800078,0.05048758238023096
+murky,negative,0.11756765316489017,0.19901618874529464
+mushy,negative,0.09990401828463463,0.18028207536772928
+musical,positive,0.1266057911479637,0.07198061219042842
+mutinous,negative,0.05178575037401871,0.15943952687437626
+mutual,positive,0.09986376079672939,0.06834585025017624
+mystic,positive,0.09772674458519787,0.08786043840621709
+mystical,positive,0.16941296502483372,0.12278159563150827
+mythical,positive,0.11199461479775476,0.10892749861502547
+nameless,negative,0.0835570844371231,0.16291564998659674
+nasty,negative,0.07540023890035563,0.24570050743469565
+national,positive,0.09769738154893373,0.04643494151929878
+native,positive,0.08783275974804647,0.06838451486006046
+natural,positive,0.1828701541749391,0.11468406358102988
+nautical,positive,0.08821912373290598,0.04137458534016428
+nearby,positive,0.09557399924691284,0.07390811068108287
+nebulous,negative,0.130057000247303,0.1986964925905432
+necessary,positive,0.19368564622680853,0.14678051678836979
+needless,negative,0.07485211913145089,0.15987134845686618
+negative,negative,0.17464370816477323,0.19225167066237098
+neglectful,negative,0.07108768499595988,0.24478502220233375
+negligent,negative,0.09082553218158519,0.19502012990331602
+neither,negative,0.10059059570991076,0.15581141390893816
+neurological,positive,0.1325769196578366,0.08226843390307882
+neurotic,negative,0.1148617322247878,0.26093395312825496
+new,positive,0.1420414018831045,0.0627493237495919
+nightmarish,negative,0.13527694765179343,0.20168540003052526
+nine,negative,0.05361526631957037,0.05751250728321895
+ninth,negative,0.044471190854566,0.05220439336346727
+noncompetitive,positive,0.0860954137682403,0.06813381745828395
+nondescript,negative,0.09751126152884075,0.13770905229379232
+nondestructive,positive,0.12012440220265924,0.056611996779382376
+nonexclusive,positive,0.07924142294872795,0.05670843920233892
+nonrenewable,positive,0.0970968549116766,0.06457422467334287
+nonstop,positive,0.04730785237266116,0.037087611969756504
+nonverbal,positive,0.1528997781631701,0.11466496770259492
+nonviolent,positive,0.1180590596667133,0.09259213186715198
+nosy,negative,0.05568736044635862,0.1763908891304729
+notable,positive,0.114625603740933,0.07268067424366947
+noticeable,positive,0.17436139234537198,0.15893135017629473
+numerous,positive,0.1285725550885043,0.07833789644625802
+nutritional,positive,0.14314343659836462,0.07771035425449413
+oafish,negative,0.08566296544869374,0.2654005989191575
+obese,negative,0.08358867178189859,0.19709933704122257
+objective,positive,0.15786961029129695,0.08882564620195459
+oblique,positive,0.15572944184679272,0.12679169985925323
+obnoxious,negative,0.09225226010565837,0.3038336515193084
+obscure,negative,0.18072803315821473,0.21324666392510574
+observable,positive,0.19161181448974537,0.12589341944677812
+obstinate,negative,0.11648508607131805,0.28038127597323276
+obstructive,negative,0.10417066310005205,0.13497712058535724
+obtainable,positive,0.10950299397242592,0.05722128530378597
+obtuse,negative,0.12707396732118806,0.19579712545676084
+occupational,positive,0.13556665784120772,0.07702793817716344
+oceanic,positive,0.08469790236314358,0.06124501349094686
+odd,negative,0.11802011635115937,0.18012341908357457
+odious,negative,0.11090793564751306,0.26809759460922006
+odorous,negative,0.12123759441402526,0.12816567763928324
+old,negative,0.08725444856335007,0.12669196412142186
+ominous,negative,0.14040723117744472,0.2162966615901803
+one,negative,0.12816441057450653,0.13041789966762882
+onerous,negative,0.11387859517590962,0.19006112124667465
+open,positive,0.06906486812568542,0.048874065006227305
+operable,positive,0.10645493205512614,0.0811692186374547
+operatic,positive,0.08784552097616528,0.05449921959325816
+operational,positive,0.12317056124730162,0.07410715506623754
+opposed,negative,0.10953028548946477,0.12186523347579635
+opposite,negative,0.09671087304495594,0.12827571277645294
+optimal,positive,0.196358274114611,0.12036482103885095
+optional,positive,0.14678977064565954,0.08663904601668239
+opulent,positive,0.14765205109921842,0.12837811647839045
+organic,positive,0.17869690074706018,0.08979198431647578
+organizational,positive,0.18191624384488572,0.08149402608725077
+original,positive,0.1384564749516508,0.08088458953000074
+ornamental,positive,0.15174743387077488,0.08702596409886384
+ornate,positive,0.15831265334862013,0.10206362891724523
+orthopedic,positive,0.09036639952026493,0.05628220415331141
+outstanding,positive,0.10971406058768736,0.0534544896382999
+outward,positive,0.13100166132831445,0.10985264542798233
+overall,positive,0.10333416887434732,0.07104591941618035
+overbearing,negative,0.08975232287661886,0.27260742491499695
+oversized,positive,0.14018027399688962,0.13769162814717392
+painful,negative,0.13969751708470754,0.254665574120522
+painstaking,positive,0.1319322962509827,0.10094967315224214
+pale,negative,0.10788304617169062,0.13570910278232642
+pallid,negative,0.10956729353843846,0.1581468023969747
+paltry,negative,0.06916112214188345,0.09959328530031783
+panicky,negative,0.07894310932163136,0.2496267228929236
+panoramic,positive,0.11067871805171228,0.06409792168741428
+parallel,positive,0.13388111552986867,0.08023276968450971
+paranormal,positive,0.09698355266101054,0.09454831584473679
+parental,positive,0.12202887490392986,0.09166948421188315
+partial,positive,0.12910065455464292,0.07321170401639238
+particular,positive,0.2195481693591484,0.15217314061340637
+part_time,positive,0.06071642548072984,0.055842132717213236
+passive,positive,0.18400844896621643,0.14320219403823287
+past,negative,0.10512606100247074,0.1147044423146267
+pastoral,positive,0.11733184532765838,0.0635008898811511
+pathetic,negative,0.13334929224590392,0.3176248853069802
+pathological,negative,0.14951201778618567,0.17076894666380196
+patient,positive,0.12317303880743778,0.08980359338951172
+patriotic,positive,0.11291547077079955,0.10894690387790759
+payable,positive,0.08831936110213372,0.07271137246107028
+pedestrian,positive,0.10412484884929149,0.06514692407233724
+peerless,positive,0.09285288781248388,0.06762359180534618
+peeved,negative,0.06218244609891198,0.1912864082216127
+perceivable,positive,0.15502585603055064,0.11322790914479332
+perceptible,positive,0.1662582879521637,0.14067621322859195
+perceptual,positive,0.1867787330651159,0.09006564033870079
+perennial,positive,0.0772119211842536,0.06627214334666773
+period,positive,0.07002479427759647,0.05131356548776089
+periodic,positive,0.1611325780773194,0.09046401769037103
+peripheral,positive,0.16196437725195836,0.08127416365598215
+perishable,positive,0.12504394465758198,0.08781310146228913
+permanent,positive,0.12381703894225345,0.07517949734800354
+permeable,positive,0.14387323965090942,0.10970736887977935
+perpetual,positive,0.0890538215103648,0.07845411336585995
+personal,positive,0.1546447893071284,0.13481359547120164
+pert,positive,0.06322205665023999,0.06255235873256094
+pertinent,positive,0.16931077243214854,0.13054821121535498
+pervasive,positive,0.18423787992789298,0.168093923501329
+petty,negative,0.0380520760120177,0.13855771215304633
+petulant,negative,0.09726342517163383,0.29148625051964944
+pharmaceutical,positive,0.10294699231535509,0.05248294892774697
+phenomenal,positive,0.14204266784328226,0.10492911208884755
+philanthropic,positive,0.10847228873301916,0.05282826804355637
+philosophical,positive,0.16335228173326657,0.09882628234779398
+phobic,negative,0.10819168986957535,0.1843405812284273
+phonemic,positive,0.144384263046929,0.0883896257991054
+phonetic,positive,0.1556140127476084,0.07348180192268638
+phosphorescent,positive,0.11810285956917398,0.11576786668723146
+photographic,positive,0.12041967257640615,0.05158690876215497
+physical,positive,0.2105368784395139,0.13205009896884048
+physiological,positive,0.16882897214067596,0.0875783863450663
+picturesque,positive,0.16077774306412748,0.11976155080786752
+piercing,positive,0.10920570823851831,0.09161446454047802
+pitiful,negative,0.08564515794620742,0.23949737267904184
+pitiless,negative,0.10394397770936276,0.22086949966615066
+pivotal,positive,0.11212938945597638,0.08909953015930329
+plastic,positive,0.14464470864415718,0.09868905288949342
+platonic,positive,0.1303540007489179,0.10992032732059319
+plentiful,positive,0.1414507417057744,0.11268690426481419
+pluralistic,positive,0.15785677895741368,0.10610572655664499
+plus,positive,0.09540365471403194,0.052136836583033586
+plush,positive,0.11313304785566929,0.10140678931365817
+pneumatic,positive,0.11961165617850802,0.06303670450315829
+poetic,positive,0.19206045974735447,0.12312990259838501
+poisonous,negative,0.11514452314313321,0.1813906662429413
+polished,positive,0.1781943506760859,0.1349973424713615
+political,positive,0.14604420547055458,0.12902198603936696
+poor,negative,0.12159737395101683,0.19690464489426984
+popular,positive,0.141673601279054,0.1100550450718687
+populous,positive,0.08470048036539722,0.056657958839737704
+porous,positive,0.15585754971238513,0.10508359181759794
+portable,positive,0.1459623456031919,0.06371627124938278
+positive,positive,0.17184503011395394,0.14959669561316125
+possible,positive,0.18854134412347623,0.14794478610958578
+posthumous,positive,0.08617778920062229,0.056138790252294415
+postoperative,positive,0.1160805419963981,0.07693011177976448
+potable,positive,0.102821336853114,0.07646308064157312
+potent,positive,0.15310470591652242,0.1527655189159878
+potential,positive,0.16760596429230645,0.11279681678590044
+powerless,negative,0.08840881224721367,0.217348183026081
+practical,positive,0.22286039874345612,0.11116207242761789
+pragmatic,positive,0.19082159157270429,0.16864905612089043
+precious,positive,0.12096774951302836,0.11136621823064795
+precise,positive,0.21848223945359882,0.13452577498510027
+predicative,positive,0.11063458557126203,0.08738561014484655
+predominant,positive,0.1575777911801997,0.10647507094340433
+preeminent,positive,0.10267620854361194,0.061902831104905874
+preferential,positive,0.12434792540720066,0.09891701371786525
+prehistoric,positive,0.10085007014237304,0.06805092299546664
+prejudicial,negative,0.10845423240768909,0.20476872899296364
+preliminary,positive,0.07603506932100455,0.0553623547562435
+premium,positive,0.12318098636391332,0.058236649918600385
+prenatal,positive,0.12480226040867563,0.08395833744184897
+preoperative,positive,0.12120416392467259,0.07265350728301578
+preparative,positive,0.10691563062279066,0.04843282658987227
+prepared,positive,0.12456461041601377,0.11893846329751709
+prescriptive,positive,0.16595109300386612,0.13001191362273792
+present,positive,0.08464042955375196,0.06373469580729389
+presidential,positive,0.07217744271524419,0.054667269356595494
+pressurized,positive,0.11246160035015883,0.06857846884307586
+prestigious,positive,0.10907994383765333,0.048729653115404524
+prevalent,positive,0.14693077548668135,0.1348235494888161
+preventative,positive,0.1322409268534362,0.09445819866468765
+preventive,positive,0.1400576852731207,0.08648512725850373
+priceless,positive,0.11190894385962405,0.0919391239738244
+prickly,negative,0.08940793971225916,0.15348316016721894
+primary,positive,0.13132012904435686,0.0727289948919085
+primitive,positive,0.1909048059225885,0.14515709355913112
+primordial,positive,0.13590688329230996,0.09621026551722509
+princely,positive,0.0681353936656465,0.04686908379886523
+principal,positive,0.07325414891183703,0.05094044853854112
+pristine,positive,0.14652730189401586,0.12284604765552536
+private,positive,0.10197005469463356,0.06931322720797303
+prize,positive,0.06243088436564142,0.029350741607088008
+proactive,positive,0.16792547197712984,0.11596357414145488
+probabilistic,positive,0.16794274460146358,0.07868663107093996
+procedural,positive,0.147371913802531,0.10303812836326406
+prodigious,positive,0.13555936845711716,0.11220120921267678
+productive,positive,0.16756645560147707,0.11912599395253057
+professional,positive,0.10262464694004605,0.04295571496893974
+professorial,positive,0.06943028242465958,0.04867691750243428
+proficient,positive,0.10431760842063588,0.09385628636304355
+profitable,positive,0.13391863489493194,0.12346754227731283
+profound,positive,0.18189092610696364,0.14550446415409143
+profuse,positive,0.1384481083920981,0.12429621474453895
+programmable,positive,0.12953671981057807,0.049286361797208855
+progressive,positive,0.11041585977654904,0.07101035936666407
+prohibitive,negative,0.10639658953979426,0.13691806915878107
+prolific,positive,0.12346506358533633,0.06976906560341037
+prominent,positive,0.12675568107365762,0.08019261662884362
+pronounceable,positive,0.09124367956179444,0.06746939735198165
+proof,positive,0.1313686637842139,0.09865642710298825
+proper,positive,0.19400566476543432,0.12426704602588996
+prophetic,positive,0.1417264521005399,0.1313030180276001
+proportional,positive,0.14178536035291445,0.08878926268576376
+prospective,positive,0.1155282144332665,0.08919065640671406
+prosperous,positive,0.13036558225638722,0.10545255923271359
+prototypical,positive,0.14891571312573015,0.13257290680403783
+provisional,positive,0.08323875766821062,0.06081398434338796
+proximate,positive,0.1335575196682886,0.108403718421755
+prudential,positive,0.068188555252859,0.04659396692341755
+psychedelic,positive,0.1257347302546205,0.11040530523560636
+psychiatric,positive,0.11233818499150923,0.09271005083150892
+psychological,positive,0.18678562010083302,0.12648081487109533
+psychosomatic,positive,0.12480052625188777,0.10109924987867464
+public,positive,0.1288237067655359,0.0886485309318566
+punishable,negative,0.07631655821950199,0.11312541726730288
+pure,positive,0.1877025586755388,0.14797783969229705
+pushy,negative,0.07818500177349018,0.24425407248667952
+putrid,negative,0.0957443294943827,0.21747938606509298
+pyrotechnic,positive,0.11214423032990131,0.06702569393099919
+qualified,positive,0.10322810934968872,0.06574781520536024
+qualitative,positive,0.1939540843796072,0.08754174168299007
+quality,positive,0.19560668972378198,0.08940636201820312
+quantifiable,positive,0.15969620225902467,0.10365927106367427
+queasy,negative,0.07608491236978353,0.174577863869663
+questionable,negative,0.1505847572743303,0.23807479635737158
+quick,negative,0.13424534675736488,0.15873165483458
+rabid,negative,0.0643539850365489,0.181739266683869
+racist,negative,0.09363384567963713,0.23171366723805958
+radiant,positive,0.11968429991868103,0.08812066513980876
+radical,positive,0.13272681030509295,0.12936226142343793
+rainy,negative,0.06655556459859735,0.08475082864934305
+rancid,negative,0.06566992012019934,0.1254266524022286
+rancorous,negative,0.07863735801348863,0.1841116262610536
+rank,positive,0.060349456083422605,0.04716568014891191
+rapid_fire,positive,0.05351731584579944,0.0410487208322091
+rare,positive,0.1631756617199883,0.14889989165404144
+rash,negative,0.07000064101782533,0.17819699591177524
+rational,positive,0.19965510558306654,0.1440024423727522
+ratty,negative,0.06042961088025317,0.14535031651619806
+raw,positive,0.10838457598994211,0.1023000115417408
+reactive,positive,0.17757646734636107,0.12534593574819156
+realistic,positive,0.21662091144316462,0.18248537089883549
+reasonable,positive,0.17654658473199278,0.15578533904705302
+recent,positive,0.12911017952742354,0.09109094689134989
+rechargeable,positive,0.10252529418421558,0.046145235000689615
+reciprocal,positive,0.16268674386963725,0.09026717156694194
+recognizable,positive,0.16598244674109647,0.1295903007248972
+rectangular,positive,0.13492795601104293,0.09045527269617891
+recurrent,positive,0.14455351896731464,0.1216059172484225
+recyclable,positive,0.11036476008619074,0.06877169843836943
+red,negative,0.10685608541078702,0.11474522360555935
+redeemable,positive,0.0757192786259111,0.04964486377224445
+referential,positive,0.1545699242436162,0.10086278822045149
+refillable,positive,0.11188743508839794,0.05886025630678449
+reflective,positive,0.19992424860855273,0.12632557656798188
+refractive,positive,0.12848106723831315,0.06773517731369873
+refundable,positive,0.08826954149701885,0.060903137869753106
+regal,positive,0.07106594550298594,0.05683503356472051
+regional,positive,0.1097292372400005,0.03999316551646469
+regrettable,negative,0.11846525582850434,0.23457402247655967
+regular,positive,0.10932798182378267,0.07812082890773789
+relevant,positive,0.2193929472588027,0.14877181995221908
+reliable,positive,0.1905401269332698,0.13127549314573245
+religious,positive,0.15671759356887363,0.11984241111908515
+reluctant,negative,0.07419800341768129,0.20068166481737706
+remarkable,positive,0.19193292615134344,0.14169689558951398
+remedial,positive,0.10296703584472187,0.07029269475938674
+remote,positive,0.13593703635973464,0.10065113047307356
+removable,positive,0.141376287639997,0.07783160213199582
+renewable,positive,0.1082608380232326,0.05170567384156743
+repairable,positive,0.10240290217088681,0.09279240204192452
+repeatable,positive,0.18061939958966902,0.1027765988217124
+replaceable,positive,0.13354285806448796,0.07058953621038015
+representative,positive,0.0850497899598955,0.05341481374860402
+reproductive,positive,0.14082560211112705,0.08246922544908711
+republican,positive,0.07756483742690762,0.05271994017735391
+repugnant,negative,0.12224085367324623,0.2491610224608068
+repulsive,negative,0.1414253991394262,0.2587482531141258
+reputable,positive,0.11850044697136713,0.10152151006667318
+reputed,positive,0.09468772031360469,0.0904888446205626
+resealable,positive,0.09871384829683746,0.06433299391192392
+resentful,negative,0.08947140616358246,0.25688845897914525
+resident,positive,0.08322475974752985,0.05954293047263791
+residential,positive,0.1143689907097918,0.062078197568284775
+residual,positive,0.1713622046617615,0.11316937618629022
+resolvable,positive,0.1171572873944152,0.07538764785549945
+resonant,positive,0.16654184411217285,0.09992231695280182
+respective,positive,0.09929054851723956,0.05813199491154798
+responsive,positive,0.1855601153326643,0.11932916788239656
+restful,positive,0.116585913735397,0.08457077463436806
+retired,positive,0.06411430022544078,0.03568540943564989
+retrospective,positive,0.08523941198717075,0.05234329663301196
+reusable,positive,0.1510555100449133,0.06875562409873082
+reversible,positive,0.17274264134937997,0.09770583731607846
+revised,positive,0.08211486274327714,0.0452435950763365
+revolutionary,positive,0.0936806330882518,0.0914822234993255
+rhetorical,positive,0.18665793100201594,0.14931505544858484
+rhythmic,positive,0.14255720306733088,0.07756031057204876
+rigorous,positive,0.17924629581740176,0.09811714246264122
+robotic,positive,0.12239663565081796,0.10560112736345456
+robust,positive,0.2171774114820976,0.1354331931011491
+roomy,positive,0.1269846758710138,0.10055821645692335
+rotten,negative,0.0493665886199725,0.10077459870547689
+rough,negative,0.10900125668311751,0.15683462851395324
+roundtable,positive,0.09308813100739016,0.0428778214025146
+routine,positive,0.12407067571201388,0.0947529202108892
+royal,positive,0.07137015498116898,0.03677742500399796
+rude,negative,0.09230340816501524,0.27461859259432037
+rudimentary,positive,0.17375547901206623,0.11961761451439058
+rugged,positive,0.14372510754941414,0.14350060856327027
+rumpled,positive,0.06307587244785591,0.03787063482949244
+rural,positive,0.11026912743070068,0.06284837623947746
+rustic,positive,0.14093296782230028,0.11517154664393853
+rusty,negative,0.06906524275861918,0.13647679324685213
+saccharin,positive,0.10619488944655613,0.0870109646536538
+sacred,positive,0.12970797677708196,0.09959904778092088
+sacrilegious,negative,0.09885538955464555,0.23718024576752006
+salient,positive,0.1329064146988132,0.1099948477410598
+salty,negative,0.10188600503330619,0.15325806124353414
+sandy,negative,0.06285822446175114,0.09792945256400297
+sanitary,positive,0.10361290727340572,0.07023952870092821
+satin,positive,0.09756259646816265,0.09042102578912876
+satisfactory,positive,0.16595320509320238,0.14626739484754586
+savory,positive,0.07500469485155761,0.0708940018550602
+scaly,negative,0.10519403435125886,0.14329316817334936
+scary,negative,0.10096046319474704,0.22520019515869655
+scenic,positive,0.10227574843089117,0.06332721361670124
+scented,positive,0.11354275760063076,0.08976208008720614
+scheduled,positive,0.046091382716162456,0.039568079932468955
+schematic,positive,0.15411840813519032,0.06784559362431002
+scholarly,positive,0.154008219513497,0.07931337055094216
+scholastic,positive,0.0876379935230221,0.03751776715910048
+scientific,positive,0.16706094389665552,0.06705647988077182
+scraggly,negative,0.08155408265689267,0.13270021841533902
+scrawny,negative,0.08299044149028038,0.22558023109392356
+scriptural,positive,0.14218041587956848,0.0937704699765
+sculptural,positive,0.1550203882078535,0.05765937378642754
+sea,negative,0.07422244387586362,0.08774723391834413
+seamless,positive,0.16930015828868922,0.07511429697978998
+seasick,negative,0.05940333078875118,0.16071624470221857
+seasonal,positive,0.128990032173385,0.08395236617808186
+second,negative,0.05669509075009763,0.06405790960367803
+secondary,positive,0.14190310146147775,0.07662764346798812
+second_hand,positive,0.07609809886575361,0.061724336390695425
+secular,positive,0.14595970792532598,0.10802577148936136
+secure,positive,0.10095388411590178,0.07788931421834562
+seedy,negative,0.08087148216930466,0.1762172534608893
+seismic,positive,0.13282656110245428,0.06830278064326627
+select,positive,0.07152029127292579,0.04258825793453397
+selected,positive,0.05526350911093781,0.051787015929708295
+selective,positive,0.17305638697277664,0.1106397897515356
+semiprecious,positive,0.08166016461892958,0.056773547986088364
+semiprofessional,positive,0.05164575091609747,0.03530233378908703
+senior,positive,0.09146530245256479,0.05434176667674853
+sensuous,positive,0.1698661108340397,0.16181323602094025
+separate,positive,0.13720607270546717,0.08529026163039631
+sequential,positive,0.16839114259444732,0.07362806910262874
+serendipitous,positive,0.1321485743956496,0.09844902155930738
+serial,positive,0.07317130126425518,0.060822263849326874
+serious,negative,0.1475812388585566,0.2236437946726175
+serviceable,positive,0.11636437641326626,0.10866143391783405
+seven,negative,0.05645185006315781,0.06233327028690183
+seventh,negative,0.049971521408842465,0.057013922727260455
+severe,negative,0.11378998567855152,0.15918149998699765
+shabby,negative,0.09382108557712998,0.2305799846457979
+shady,negative,0.06999932436792287,0.15148731811004537
+shallow,negative,0.13317537237869323,0.13514299137589822
+shameful,negative,0.10380369639873656,0.2718377003669504
+sharp,negative,0.11803386239651599,0.15546598938469797
+sheepish,negative,0.0629864491783248,0.15102720071379774
+shifty,negative,0.06868076598686361,0.17421158352661284
+shoddy,negative,0.09032042999618016,0.1800574801178974
+short,negative,0.12122972404304538,0.13836994349426793
+short_term,positive,0.13417114359246018,0.09413378670844386
+shrill,negative,0.11416864007087184,0.20373108018537078
+sick,negative,0.07071943787582959,0.19216544893786236
+sickly,negative,0.09279791858565312,0.23151320649686644
+significant,positive,0.1887981662844921,0.12142889276648465
+silver,positive,0.09335419733335935,0.07548719644325187
+similar,positive,0.17981811881686585,0.13967314675966536
+simple,positive,0.23678828222362236,0.17380325082653134
+simultaneous,positive,0.1570626546294033,0.08254186412981383
+singular,positive,0.13931037616689013,0.10690051136758864
+sinister,negative,0.09920407806612218,0.21027171786390877
+sinuous,positive,0.14573193452535668,0.1260548852984527
+sixth,negative,0.04934514409045808,0.053064011332140386
+sizable,positive,0.09474997336312006,0.06349322666849758
+skeptical,negative,0.1122784901563312,0.20119769530663012
+skilled,positive,0.13221778388016586,0.12545611481045943
+skinny,negative,0.08438785137974299,0.18244022992542228
+slanderous,negative,0.07154408612263757,0.20650292177652751
+sleek,positive,0.14940729895320437,0.13034903174791534
+slender,positive,0.12763215441157316,0.12189591839817077
+slight,negative,0.14168494030545903,0.16102689496137063
+slimy,negative,0.10118592549134667,0.2120509036773001
+sloppy,negative,0.09242740851999542,0.23238274123087363
+slothful,negative,0.08968151591438953,0.22735722923138812
+slow,negative,0.13981261162969705,0.15904799560066216
+small_town,positive,0.07643639104897446,0.0717809441149689
+smooth,positive,0.17493647159209497,0.1318872569485983
+snide,negative,0.06446439093735418,0.19851049760951192
+snotty,negative,0.0755531199729067,0.2288058370718903
+social,positive,0.17352231956108247,0.09203075805317602
+socialist,positive,0.09125173447090817,0.0738951181637175
+sociological,positive,0.15590763374222671,0.08119898510770501
+soft,positive,0.17328343331407672,0.16154059580128657
+soggy,negative,0.08061722810241158,0.1703634876615358
+solar,positive,0.10811438430339906,0.047937817402804894
+solid,positive,0.17554476921071716,0.11067971448652336
+somatic,positive,0.14793287185257992,0.07772143292330232
+sonic,positive,0.1155629878106491,0.09943625176721954
+sophisticated,positive,0.21754518116468494,0.14508248197912418
+sordid,negative,0.10933112723179718,0.24893020967712845
+sore,negative,0.0720950831339483,0.16063167115824925
+soulful,positive,0.14605118487726756,0.13858346083868003
+soulless,negative,0.10332999428823632,0.22022002303513594
+sour,negative,0.0718805293229525,0.16015655100374762
+spacious,positive,0.14202163627940836,0.08597732108601272
+sparing,positive,0.12398781620092775,0.11885584882337917
+sparse,positive,0.18006881420444995,0.15086607850604256
+spatial,positive,0.1980734104157042,0.07945714640343528
+special,positive,0.12432575729032425,0.06002819529983368
+specialist,positive,0.1253867000777643,0.05506343783668343
+specific,positive,0.23465705596548742,0.1250769824440516
+spectacular,positive,0.14438426600933624,0.114050374625486
+spectral,positive,0.14228663188220073,0.06834558425843867
+speculative,positive,0.167652469929326,0.15787433377212653
+spherical,positive,0.1581796364589908,0.09884595310026001
+spinal,positive,0.0938195012662329,0.0678591772536104
+spiritual,positive,0.16847814185277812,0.1009334234306723
+splendid,positive,0.16493211929677667,0.1477296049235677
+spontaneous,positive,0.18504621350853126,0.17087158200640368
+spotless,positive,0.07507247722486891,0.07481572778777
+sprite,positive,0.11176805714701599,0.09361887424477443
+squalid,negative,0.07466936310595096,0.18107697059646471
+stable,positive,0.1244361976686094,0.08143331215489866
+stackable,positive,0.113053641463589,0.051249188464204225
+stagnant,negative,0.11143621054438332,0.15721687249209176
+stale,negative,0.10691191940224551,0.21829737712755345
+standard,positive,0.17863631507633246,0.07950842576005228
+standing,positive,0.04999753601256229,0.04780751033561257
+stark,negative,0.07635793890268855,0.13555767474105537
+stately,positive,0.11530846275462636,0.09444870420548078
+static,positive,0.17840056161118673,0.10270223081067778
+statistical,positive,0.12661584971350756,0.054333093778856485
+status,positive,0.08711605747345763,0.064521678645576
+steady,positive,0.1053361737977965,0.08983352743451768
+stealth,positive,0.1043077030074129,0.08012192474018981
+steel,positive,0.10474764948742289,0.07415692390465844
+stereophonic,positive,0.08075425441029385,0.04361696968733572
+stern,negative,0.05410913578326599,0.10011609197743832
+stiff,negative,0.10797901971989474,0.1598310544037542
+stigmatic,positive,0.08085126107486376,0.061925942871263746
+stinky,negative,0.07066458689183691,0.16325990854855146
+stock,positive,0.1107481561848021,0.06402540722452059
+stodgy,negative,0.11189249994844652,0.23153272778055628
+stony,negative,0.07840473226012484,0.10106074377226375
+straight,negative,0.09028471953768637,0.11613932376778206
+straightforward,positive,0.21268527306585072,0.20004767378518812
+strategic,positive,0.1386254825477214,0.0731478633882816
+stretchy,positive,0.13326139020961655,0.12650582189546963
+striking,positive,0.17866383886882173,0.15792327313610013
+stringent,positive,0.13314628550705113,0.11164307895202757
+structural,positive,0.19948965106433414,0.0877467062149864
+stubborn,negative,0.09913127210486443,0.26081516170587676
+stubby,negative,0.08418417386657238,0.11140668044393244
+studied,positive,0.11728628686198804,0.07186972791504012
+stunning,positive,0.14983132644091793,0.13349444335897317
+sturdy,positive,0.14941736878865594,0.1435105059163674
+stylish,positive,0.16508069127119965,0.1619453955695236
+stylistic,positive,0.17526627913284756,0.08815833441129249
+subconscious,positive,0.14495280747609843,0.14350600832882424
+subject,positive,0.1603266898641082,0.134210375048816
+subjective,positive,0.20748066540812873,0.17565022773205508
+sublime,positive,0.14778929982319655,0.13797846577333986
+subordinate,negative,0.10228511355307571,0.13949669105155454
+substantial,positive,0.16967070666857337,0.10874590462426728
+subtle,positive,0.22599456768745058,0.20744631624706428
+successful,positive,0.1181498648826863,0.10205914208394672
+succinct,positive,0.167403839110792,0.1412115323697496
+succulent,positive,0.10092543953994558,0.08770971970712123
+sufficient,positive,0.17829622680395266,0.12666833306985742
+suitable,positive,0.18635273829372231,0.1292867190895899
+sulky,negative,0.07517329112529304,0.13941103336748273
+sullen,negative,0.08584931355968584,0.26002432103837547
+sumptuous,positive,0.14866959228107438,0.10576303132248888
+super,positive,0.08929576511918731,0.08350417135024427
+superabundant,positive,0.0957804395946803,0.056272122782060244
+superb,positive,0.15115711044088814,0.11575485052317631
+superlative,positive,0.12359150326591531,0.11048141628874772
+supersonic,positive,0.09634861742650619,0.0563678499102279
+supple,positive,0.11986682753211723,0.11829970296338208
+supreme,positive,0.08930232877823255,0.08272254623002674
+surgical,positive,0.11514553137481617,0.06303945017481545
+surly,negative,0.07313953726494014,0.23878399782026602
+surrealistic,positive,0.14955679510236944,0.1477209805261071
+survivable,positive,0.12282342703649242,0.10489814433576017
+suspected,negative,0.03452894652434446,0.057048290400132776
+suspicious,negative,0.08296100232374301,0.24442590096432412
+sustainable,positive,0.1592039829112084,0.06941212954100881
+swimming,positive,0.06172375672315519,0.04765114675628104
+syllabic,positive,0.11917511351684013,0.07005448205918652
+syllogistic,positive,0.1107706696227591,0.06936253149067054
+symbiotic,positive,0.12839182594157925,0.08637752723446696
+symbolic,positive,0.19820099091388607,0.12512854908869034
+symmetrical,positive,0.18136145485067498,0.1029337634551668
+synergistic,positive,0.16103851728163157,0.07863721070645696
+syntactic,positive,0.16453928997348793,0.07573756910155692
+synthetic,positive,0.17689496144270456,0.08612187769371286
+systematic,positive,0.18447977120512188,0.1066949591572016
+taboo,negative,0.10188270022192233,0.16337811085040477
+tactical,positive,0.10640975476904514,0.06165688927445544
+talented,positive,0.1265214954830235,0.11510364606875279
+tan,negative,0.05966378015999983,0.06865572723881896
+tangential,positive,0.14715475584258547,0.10372994999416849
+tangible,positive,0.18437370651085142,0.10690023704508504
+tardy,negative,0.05118331278454573,0.13389454476135426
+tasteful,positive,0.1664982141369861,0.16291779430722955
+teachable,positive,0.1254466161105506,0.09554458246388114
+technical,positive,0.1673448463521935,0.07040877225892109
+technological,positive,0.17063727877331303,0.07415278606273067
+tectonic,positive,0.11530008787468161,0.06335422937497553
+tedious,negative,0.13383651234997943,0.2331870606916026
+teeny,negative,0.06545246851922595,0.11391572561505682
+telegraphic,positive,0.06909376349413149,0.04465785650218679
+telephonic,positive,0.07809709295813275,0.056430282893008554
+telescopic,positive,0.11366121413009311,0.06426888145309227
+temperate,positive,0.10206753107213877,0.08020507287765655
+temporary,positive,0.11375986335707979,0.08245849959721983
+ten,negative,0.05233185262391138,0.054680143814406654
+tender,positive,0.07762889246679837,0.0765259114223989
+tentative,positive,0.09833012663937703,0.07685995961091657
+tenuous,negative,0.12324179784686647,0.16869920445398565
+terminal,positive,0.10755276229648238,0.06402283520778505
+terrible,negative,0.10055814925073055,0.24768849048951222
+territorial,positive,0.09848103204265533,0.0703857577899275
+testy,negative,0.07101893125188351,0.20527451898878032
+textual,positive,0.1494669650610737,0.08055762905239948
+textural,positive,0.183807023795001,0.09626384389118416
+theatrical,positive,0.10181346434028819,0.06645873121690077
+thematic,positive,0.18242403246108,0.0719332572552755
+theological,positive,0.11396183959443554,0.05982065715382945
+theoretical,positive,0.1834192586445579,0.0813725535056616
+therapeutic,positive,0.17117089013073017,0.08423362546200519
+thermal,positive,0.15508813167544006,0.08369763300923672
+third,negative,0.053786284848129945,0.05710133044502592
+thorny,negative,0.0863782899186178,0.1309328103242339
+thorough,positive,0.1637718284801972,0.10667407801559387
+threatened,negative,0.053359573805609795,0.06363540793100965
+tight,negative,0.13222025638466056,0.1448326289263557
+timeless,positive,0.15239325221185235,0.10410521577168855
+timely,positive,0.13815245100139423,0.09733154322816735
+tireless,positive,0.1086471171540864,0.09345253230018997
+toneless,negative,0.06787092977906489,0.07701952589365343
+topical,positive,0.14804690800881215,0.09265559807367789
+topographical,positive,0.11631980629766638,0.055868309961278145
+torpid,negative,0.0910641851690805,0.19416342540743817
+tough,negative,0.10484097276544634,0.22032624997267125
+toxic,negative,0.12182371307510854,0.14629142533475234
+traditional,positive,0.18640033729375613,0.09150203241526152
+trainable,positive,0.09755362413295016,0.08081664294796068
+training,positive,0.11465344289826433,0.05261144357532061
+traitorous,negative,0.05700470132894285,0.17363920874571812
+tranquil,positive,0.146563250071613,0.14096903951224538
+transcendent,positive,0.16383078926583952,0.12083407806950079
+transcendental,positive,0.1612273600093024,0.09523866388470616
+transformative,positive,0.18725706668752032,0.10373634297071521
+transient,positive,0.15729334110359067,0.11577252978163038
+transitional,positive,0.11371755233194411,0.06426619714321809
+transitory,positive,0.1668702660238733,0.15699927048942078
+translucent,positive,0.15629262809207467,0.11918230599322177
+transparent,positive,0.19433835046352438,0.12189722492328009
+treacherous,negative,0.09230997980228776,0.23701457305028578
+treasonous,negative,0.08102126298029048,0.20050177090760807
+tremendous,positive,0.13022843039601897,0.10392859834174349
+tribal,positive,0.09780154576071808,0.07336910542639186
+tricky,negative,0.10461690262419361,0.18453119911127047
+trim,positive,0.12448269583902168,0.0810250804213475
+tropical,positive,0.09405747700698781,0.07544101954140284
+truculent,negative,0.08253534581533283,0.20857032293186462
+typical,positive,0.21253870447525816,0.14798613033142188
+tyrannical,negative,0.08065553061701376,0.22845442241683925
+ubiquitous,positive,0.1699063764155662,0.12250008158132629
+ugly,negative,0.09654598773241788,0.2521109556314682
+ultimate,positive,0.12298250248524915,0.10540134358247204
+ultrasonic,positive,0.14032856857176787,0.07690007669467147
+ultraviolet,positive,0.1101537084022059,0.07147968573584915
+unable,negative,0.07640500801111634,0.14562386899099997
+unacceptable,negative,0.13329964457711932,0.24379535480266032
+unaccompanied,positive,0.06473115186113203,0.05923436432616789
+unaccountable,negative,0.10149965401219245,0.2229188231112357
+unadorned,positive,0.15927525578698098,0.14183459324368203
+unaffordable,negative,0.10687616677036914,0.16232475111889902
+unalienable,positive,0.07853072918531318,0.07411355665332237
+unaltered,positive,0.12791538267632252,0.10554037708013375
+unambiguous,positive,0.19037904764299152,0.14323759757023843
+unappealing,negative,0.13570529038930446,0.2792232948383539
+unappetizing,negative,0.10865406647286191,0.20006981147319833
+unappreciative,negative,0.06970307044966702,0.20940312134176733
+unassisted,positive,0.06969975614986833,0.06909154258461755
+unattractive,negative,0.13520647296047889,0.2879363111531702
+unavailing,negative,0.07256005909308744,0.14109836213336838
+unbalanced,negative,0.1593763545556929,0.23512393938588422
+unbearable,negative,0.10133035753386896,0.21786313369726906
+unbecoming,negative,0.08092781347666048,0.19530502852239304
+unbiased,positive,0.1558621819610502,0.13345879721635406
+unbounded,positive,0.15022548300570068,0.12249253259455373
+unchangeable,positive,0.14197841042982964,0.1361969254009625
+unchanging,positive,0.15862664207609714,0.14277384887845368
+uncharitable,negative,0.10016924156406168,0.22507382753186875
+uncivil,negative,0.07297652914078727,0.16830816338798474
+uncivilized,negative,0.098028561370919,0.2324426434818673
+unclassified,negative,0.09344679923726644,0.093868463797784
+unclean,negative,0.09686718554575778,0.20657760542652387
+uncommitted,negative,0.0717222370212073,0.09061723108442189
+uncommunicative,negative,0.0854566501349245,0.22961817554927477
+uncomprehending,negative,0.07967505904198742,0.18128855327018753
+unconfirmed,negative,0.06122527554981671,0.08626550720838959
+unconscionable,negative,0.10223314801820708,0.21621055584831336
+unconstitutional,negative,0.08806383437317003,0.15337516547105723
+unconstrained,positive,0.16188384890646706,0.1448526681367804
+unconvinced,negative,0.07732095662580318,0.16476753437121913
+unconvincing,negative,0.131995084247847,0.2653191505744762
+uncooperative,negative,0.08450408780942245,0.2663806016938717
+uncoordinated,negative,0.1206521572555125,0.20007153407081227
+uncouth,negative,0.1103550385944637,0.28996839580351796
+uncritical,negative,0.14766178492518633,0.2218062294457239
+undeclared,negative,0.06150871436279893,0.09786456339757352
+undefeated,positive,0.061828920905210194,0.061605640984548224
+undemocratic,negative,0.1274891886833878,0.22568940444291322
+undependable,negative,0.07057729807607666,0.212266481972704
+underdeveloped,negative,0.1304197217385393,0.16035423595890008
+underhanded,negative,0.07872678396640156,0.19298042487440495
+underprivileged,positive,0.09499927400426375,0.06597424507184281
+understanding,positive,0.17650658695549032,0.08926168505061932
+undesirable,negative,0.1706005526032998,0.24421094463691115
+undifferentiated,positive,0.15408422243147785,0.13390680135107377
+undignified,negative,0.10438320217822135,0.2846725125527596
+undiminished,positive,0.1018004329484762,0.10046325244459248
+undiplomatic,negative,0.08744009688559728,0.17136348679901495
+undisciplined,negative,0.0959395802262561,0.24419507952567324
+undivided,positive,0.08324414227555943,0.07076062234469079
+uneasy,negative,0.10502237424152366,0.20486533023272746
+unendurable,negative,0.10612804339729359,0.23070159218876846
+unenforceable,negative,0.08974519264402261,0.1633549234212632
+unenviable,negative,0.07901419179397635,0.10725785310996402
+unequal,negative,0.14771627632991993,0.15752732311236375
+unequaled,positive,0.11777359422439812,0.09486805899116318
+unerring,positive,0.13907917429821032,0.12251549343760733
+uneven,negative,0.13465643361261584,0.14337243379860043
+unfailing,positive,0.11878762414615113,0.11792767899740245
+unfair,negative,0.1105122481159691,0.22043738377032543
+unfaithful,negative,0.0619384574978543,0.20617124662038955
+unfaltering,positive,0.11552304345286378,0.09940383324689275
+unfavorable,negative,0.12542717230200745,0.19904587919924177
+unflagging,positive,0.12244617118498807,0.09729905291163596
+unforgivable,negative,0.08768529124574626,0.21905853235150502
+unforgiving,negative,0.11023709362537677,0.24900676621733892
+unfriendly,negative,0.10342530176437328,0.2613380565519373
+ungentlemanly,negative,0.08262540710476744,0.17499779751042815
+ungrateful,negative,0.07676818641626114,0.2598577615168685
+unhealthy,negative,0.14383578370373126,0.2549200838368749
+unheeded,negative,0.04532977775866664,0.10673544665759194
+uniform,positive,0.1195207536186807,0.06508587130974774
+unilateral,negative,0.1211385182324986,0.12163774496559156
+unimpeded,positive,0.09930559667742872,0.0838342799422463
+unimpressive,negative,0.11130322333827718,0.19299596931770563
+uninspired,negative,0.12527752321560348,0.2495363726637095
+unintelligent,negative,0.11939914183099917,0.294067135975895
+unintelligible,negative,0.119768678359553,0.20806077379255333
+uninterested,negative,0.08985876522893166,0.22895338501470539
+uninterrupted,positive,0.11298168956356547,0.08533712885029972
+unique,positive,0.23174203919883382,0.09828277066686449
+united,positive,0.07202841170179977,0.05273192518516197
+universal,positive,0.11788811718932464,0.05789539010248308
+unjust,negative,0.11364459364303686,0.2532470167192251
+unjustifiable,negative,0.11292833675729619,0.24184297844864247
+unkempt,negative,0.11027471438363323,0.2638336774055202
+unkind,negative,0.09735699755226884,0.27226886298303504
+unknown,negative,0.06728567834283379,0.0994545027059039
+unlawful,negative,0.10152196735573621,0.17241356178075762
+unlikable,negative,0.09428519395951003,0.23542088110604387
+unlucky,negative,0.08578556164442806,0.2121821422102688
+unmanageable,negative,0.10473298858761704,0.20720945137905092
+unmanly,negative,0.10835687831747534,0.2710180416799117
+unmentionable,negative,0.07522332803055273,0.18646230269315822
+unmerciful,negative,0.07026568576518112,0.14839554629848195
+unmistakable,positive,0.15490824609107512,0.1463451474262864
+unmodified,positive,0.13230041086279803,0.1006569527160408
+unmotivated,negative,0.10270320513390524,0.2601419126798198
+unobtrusive,positive,0.1651459009739286,0.15904553841822588
+unostentatious,positive,0.12223482269513697,0.11539821773098947
+unpleasant,negative,0.14839185982114417,0.31305637698793826
+unprecedented,positive,0.12539638622361868,0.11340493061523434
+unprincipled,negative,0.10819420842332236,0.2846214460197261
+unproductive,negative,0.09035937014798365,0.15084543461476072
+unprofessional,negative,0.10123877416197952,0.2765165239019003
+unprofitable,negative,0.0908373991044126,0.14730921706312106
+unreasonable,negative,0.13173833611039384,0.22881808095287318
+unreceptive,negative,0.07381031535794287,0.20489747203577569
+unresponsive,negative,0.10367897849018617,0.23382276174704897
+unripe,negative,0.08909832113397935,0.10587269415499087
+unrivaled,positive,0.12981340898053056,0.11145888192485928
+unruly,negative,0.09110445920039177,0.241130825235135
+unsafe,negative,0.11071148054354799,0.1973438725465313
+unsalvageable,negative,0.060949585659833376,0.14635332011379285
+unsatisfactory,negative,0.13088004125437036,0.2169546656505038
+unscrupulous,negative,0.08771124022997101,0.22288048565781726
+unseemly,negative,0.10642952436952799,0.2526248247554905
+unsightly,negative,0.12072132931136793,0.2090637801803849
+unskilled,negative,0.09735772747962614,0.11952059934277376
+unsolvable,negative,0.0949926175579388,0.13031629565144787
+unsound,negative,0.1076037084796718,0.19292202273769896
+unspoiled,positive,0.1416426466173449,0.1335985820595484
+unstated,negative,0.11247763369685562,0.13924556039068625
+unstructured,positive,0.170202243694059,0.1191556355834942
+unsuitable,negative,0.1278082495088641,0.19408213922318024
+unsuited,negative,0.11959205414637762,0.18939523424857133
+unsupervised,positive,0.11317521000611344,0.1018146405413014
+unsurpassed,positive,0.13912605311349208,0.10215336913863307
+unsympathetic,negative,0.11604619798862605,0.28332436854989096
+untapped,positive,0.09743563755337982,0.08439159503333657
+untenable,negative,0.10406927525081872,0.18427655648664681
+untimely,negative,0.05887096198304755,0.0944758616520653
+untrustworthy,negative,0.10708862468613088,0.303025247386884
+untruthful,negative,0.09849302475997679,0.25589104439640437
+unusual,positive,0.2018754187033992,0.19414264331983289
+unverified,negative,0.08372158254550491,0.12293810165097137
+unwavering,positive,0.12094734829867308,0.11804216198617391
+unwholesome,negative,0.1050516643953031,0.18714414459208104
+unwise,negative,0.10350377923399165,0.2531189802041523
+unworkable,negative,0.1103446612652528,0.2027533655304707
+unworthy,negative,0.11597833860122463,0.264043916704151
+upright,positive,0.11786940047839542,0.11452383412181102
+uptight,negative,0.08278052795431246,0.22264629588609064
+usable,positive,0.19054823104065097,0.10997143572047238
+used,positive,0.10972369801782343,0.09127962520279308
+useful,positive,0.22177846326426207,0.1599437193768366
+utilitarian,positive,0.17340962077968908,0.1234699554017989
+utopian,positive,0.12251964323099543,0.10571709397600546
+vague,negative,0.15491509306420312,0.22456660372816903
+valuable,positive,0.1588750707825044,0.12576790755953762
+vapid,negative,0.09331308494422536,0.23591628179173174
+variable,positive,0.1934539539446645,0.1015715158173407
+varied,positive,0.20673360335108049,0.11956345405137485
+various,positive,0.15761441239272356,0.07685767138642623
+vast,positive,0.14382757920086597,0.0878951706804618
+vegetable,positive,0.10969830371261875,0.07916147745774046
+vegetative,positive,0.14783976653772402,0.08385565697875628
+venal,negative,0.0659604929676271,0.2180026715238658
+venerable,positive,0.0756197636494878,0.05839639395041594
+venomous,negative,0.10049147393240677,0.1514603861754901
+verbal,positive,0.16468123161145715,0.1385730490670938
+verdant,positive,0.11527316768179441,0.10419354620727715
+verifiable,positive,0.1295700560262166,0.09344558201239886
+vernacular,positive,0.1352498359673669,0.07361460053472446
+versatile,positive,0.16313832865357375,0.10438369119813723
+versed,positive,0.08645212318638942,0.07898684876570812
+vexed,negative,0.08640396087027122,0.1291697790678042
+viable,positive,0.15548999795206292,0.11660450841947669
+vibrant,positive,0.17279720499786208,0.09753153711730457
+vicarious,positive,0.11024796241898639,0.0987725977065852
+vicious,negative,0.0972100309641505,0.26186448230280024
+vigorous,positive,0.16504339460735443,0.16291187574468494
+vile,negative,0.08694021206689205,0.22130529131754884
+villainous,negative,0.06743759444574875,0.1849214749223881
+violent,negative,0.10733179343194756,0.24612461159936724
+viral,positive,0.10279784387103577,0.0766662723787666
+virtual,positive,0.1487713976102581,0.062337872215052686
+visceral,positive,0.16016812610522616,0.1520428452715218
+viscous,positive,0.16120145719518097,0.12302379328930829
+visible,positive,0.16261535522911946,0.12601675309495772
+visionary,positive,0.1381988906385466,0.08638040514166226
+visual,positive,0.1878865701628912,0.07851891717180916
+vital,positive,0.15439928027471908,0.10572202221164381
+vitriolic,negative,0.10302291282342856,0.23183447861463216
+vivid,positive,0.1806273554059718,0.16576572740799317
+vocational,positive,0.10133936428692528,0.04336550884040809
+volcanic,positive,0.10305542416606997,0.07507759949169121
+voluminous,positive,0.1440088738669085,0.09911152021425408
+voluntary,positive,0.140955800938616,0.09365072073016216
+waterproof,positive,0.13868451987667194,0.08803851423012346
+watertight,positive,0.0899962921585229,0.06064302979660731
+watery,negative,0.1288623284954802,0.17278639216308805
+wax,positive,0.10947468892385635,0.09521005527643733
+weak,negative,0.15838450251485856,0.23535596213754795
+wee,negative,0.05074690710793386,0.10822061458396719
+weekly,positive,0.07490910549905132,0.03902160408728192
+weightless,positive,0.11819108579057014,0.11649597384225807
+well,positive,0.11960489655209613,0.08313913962810293
+white,negative,0.09951981692203211,0.11603241042431557
+wholesale,positive,0.08552238236833404,0.05788510839074985
+wholesome,positive,0.139733380644024,0.13616929354222435
+wicked,negative,0.08534242398380273,0.19662860381221203
+witless,negative,0.06371432260042591,0.20383620909999065
+woeful,negative,0.07745452394871241,0.20762100777633824
+wondrous,positive,0.1258851926121147,0.11620206320184695
+wooden,positive,0.12603251323060313,0.09125991794931844
+wool,positive,0.09377916677285761,0.0710000362399464
+woolen,positive,0.07214548443169982,0.05412198115072244
+wordless,positive,0.12351918982552924,0.11367396534724818
+work,positive,0.10725473210057311,0.05886507202195746
+working,positive,0.11290897955090155,0.06130496787906941
+worrisome,negative,0.11198794279978631,0.21532947027470387
+worshipful,positive,0.06021542791512203,0.048218889922291876
+worth,positive,0.08759121263701694,0.0865499472800421
+worthless,negative,0.10328190962797318,0.25142188585739883
+wrathful,negative,0.09440726898746746,0.15294492090293488
+wretched,negative,0.09516497442821567,0.23662389887897514
+wrong,negative,0.08980383107776899,0.22456783079613532
+wrongful,negative,0.07506225561144822,0.13211774106605506
+yearly,positive,0.08584935637652494,0.05025405142554024
+yielding,positive,0.09870615917760436,0.07714561488278254
+zoological,positive,0.07201219210835455,0.035293225582401125
