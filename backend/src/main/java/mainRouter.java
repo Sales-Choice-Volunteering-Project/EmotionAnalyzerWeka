@@ -3,9 +3,7 @@
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import spark.Spark;
-import utils.GPT3.REST.RestCallerProfanity;
-import utils.Ranker.SCRanker.GPT3Ranker.GPT3RankerModel;
-import utils.Ranker.SCRanker.GPT3Ranker.RankText;
+
 
 import java.util.HashMap;
 import java.util.List;
@@ -21,6 +19,7 @@ public class mainRouter {
         public static void main(String[] args) {
 
 
+            port(8080);
 
             options("/*",
                     (request, response) -> {
@@ -44,7 +43,14 @@ public class mainRouter {
 
 
 
-            port(8080);
             get("/hello", (req, res) -> "Hello World");
+
+            post("/hello", (request, response) -> {
+                response.type("application/json");
+                Gson gson = new Gson();
+                return gson.toJson(request.body());
+            });
+
+
         }
 }
